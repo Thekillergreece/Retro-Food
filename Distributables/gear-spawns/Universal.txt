@@ -1,17 +1,24 @@
 scene=TrailerA
-
+item=GEAR_SwedishMeatballs p=6.4644,1.4524,0.4966 r=-0.0000,31.1681,-0.0000 c=50
+item=GEAR_GroundBeef p=-6.3907,0.2530,1.4464 r=0.0000,243.9783,0.0000 c=50
 #
 scene=TrailerB
-
+item=GEAR_OrangeBiscuits p=-6.4409,0.2537,-1.0709 r=-0.0000,58.8586,-0.0000 c=50
+item=GEAR_DriedRaisins p=5.3935,1.0552,-1.9197 r=0.0000,300.3241,0.0000 c=50
+item=GEAR_BakedBeans p=6.3561,1.4524,1.6174 r=0.0000,292.9380,0.0000 c=50
 #
 scene=TrailerC
-
+item=GEAR_DriedRaisins p=6.4947,0.5388,-0.4929 r=0.0000,327.8352,0.0000 c=50
+item=GEAR_ChickenMeatballs p=-6.9800,0.0277,0.4590 r=0.0000,334.4081,0.0000 c=50
+item=GEAR_SwedishMeatballs p=-1.4080,1.1365,1.8541 r=0.0000,275.0433,0.0000 c=50
 #
 scene=TrailerD
-
+item=GEAR_SwedishMeatballs p=5.5292,0.0606,1.2915 r=90.0000,187.2815,0.0000 c=50
+item=GEAR_ChickenMeatballs p=-6.8846,0.0606,-1.3262 r=90.0000,336.2463,0.0000 c=50
 #
 scene=TrailerE
-
+item=GEAR_DriedRaisins p=-6.2908,1.1365,2.0464 r=-0.0000,175.2794,-0.0000 c=50
+item=GEAR_ChickenMeatballs p=2.6221,1.1495,1.9022 r=-0.0000,31.2970,-0.0000 c=50
 
 
 
