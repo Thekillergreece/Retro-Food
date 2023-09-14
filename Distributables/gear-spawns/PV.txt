@@ -1,0 +1,84 @@
+#PLEASANT VALLEY SPAWN POINTS
+
+# Pleasant Valley
+scene=ruralregion
+# Farm Stands
+item=GEAR_CrushedTomatoes p=2334.6768,54.1584,2261.1658 r=0.0000,245.2429,0.0000 c=75
+item=GEAR_CrushedTomatoes p=2334.6111,54.1584,2260.9756 r=0.0000,180.1825,0.0000 c=75
+item=GEAR_CrushedTomatoes p=2334.4131,54.1984,2260.9543 r=-0.0000,223.5944,90.0000 c=75
+item=GEAR_CrushedTomatoes p=2334.5422,54.1984,2260.6528 r=270.0000,195.9099,0.0000 c=75
+item=GEAR_CrushedTomatoes p=2334.1929,53.1408,2260.6277 r=90.0000,182.6672,0.0000 c=75
+# Near Rural Store
+item=GEAR_OrangeBiscuits p=2441.1990,54.8140,2253.8025 r=-0.0000,114.4569,-0.0000 c=75
+# Crashed Site
+item=GEAR_RandomCannedFood p=583.6992,150.6389,1779.9437 r=340.2139,81.5173,63.8081 c=50
+item=GEAR_RandomCannedFood p=584.1680,150.4855,1778.3065 r=302.9920,324.2587,31.2338 c=50
+# Next to PV
+item=GEAR_RandomCannedFood p=1440.9407,48.2939,1050.1779 r=-0.0000,203.8848,30.0000 c=50
+
+scene=CommunityHallA
+item=GEAR_OrangeBiscuits p=9.2603,1.7849,0.5305 r=-0.0000,65.9718,-0.0000 c=75
+item=GEAR_DriedRaisins p=1.3605,1.0074,3.5604 r=-0.0000,124.6897,-0.0000 c=75
+item=GEAR_MacCheeseCooked p=-3.7966,1.1324,4.5148 r=-0.0000,43.7368,-0.0000 c=100
+item=GEAR_MacCheese p=-6.8653,1.1339,6.9751 r=-0.0000,103.9575,-0.0000 c=75
+item=GEAR_MacCheese p=-6.7247,1.1340,6.9510 r=-0.0000,92.4286,-0.0000 c=75
+item=GEAR_AppleSauceJar p=-5.5992,2.7584,7.4501 r=0.0000,295.8693,0.0000 c=50
+item=GEAR_AppleSnacks p=-2.3706,2.7705,7.5543 r=270.0000,87.1152,0.0000 c=75
+item=GEAR_GroundBeef p=-6.6739,0.2259,6.1381 r=1.4436,209.0299,0.4287 c=75
+item=GEAR_SwedishMeatballs p=-6.6122,0.0776,5.8150 r=-0.0000,147.3042,90.0001 c=75
+
+scene=FarmHouseA
+item=GEAR_MashedPotatoesCooked p=-2.3614,0.8878,5.8102 r=0.0000,349.1833,0.0000 c=100
+item=GEAR_PremiumPasta p=3.2175,0.0035,6.6214 r=0.0000,180.5813,0.0000 c=85
+item=GEAR_SwedishMeatballs p=3.2658,0.5370,7.3710 r=0.0000,322.9163,0.0000 c=85
+item=GEAR_SwedishMeatballs p=3.1558,0.5370,7.3309 r=0.0000,287.0182,0.0000 c=75
+item=GEAR_AppleSnacks p=-3.0761,0.2339,7.2341 r=-0.0000,37.3277,-0.0000 c=75
+item=GEAR_PremiumPastaCooked p=-7.4781,0.8676,-4.2093 r=0.0000,354.5766,0.0000 c=100
+item=GEAR_MacCheeseCooked p=-8.4553,0.8676,-4.1604 r=-0.0000,154.9048,-0.0000 c=100
+item=GEAR_AppleSauceJar p=-3.4398,1.6126,8.7700 r=1.8285,285.1120,0.0605 c=75
+item=GEAR_OrangeBiscuits p=-1.9295,0.8886,5.0751 r=0.0000,359.0294,0.0000 c=75
+
+scene=FarmhouseABasement
+item=GEAR_RandomCannedFood p=4.4537,1.6388,-8.6727 r=0.0000,307.9641,0.0000 c=75
+item=GEAR_CrushedTomatoes p=4.4045,1.6788,-8.5169 r=-0.0000,313.9925,90.0000 c=75
+item=GEAR_CrushedTomatoes p=4.2622,1.6388,-8.7137 r=0.0000,327.1368,0.0000 c=75
+item=GEAR_RandomCannedFood p=4.2229,1.6388,-8.5559 r=-0.0000,26.0963,-0.0000 c=75
+
+scene=RuralStoreA
+item=GEAR_OrangeBiscuits p=-3.0300,1.2360,2.6782 r=-0.0000,181.9847,90.0000 c=75
+item=GEAR_OrangeBiscuits p=-2.9130,1.2400,2.6716 r=-0.0000,355.7063,269.9999 c=50
+item=GEAR_DriedRaisins p=-2.9776,1.5554,2.1900 r=-0.0000,93.9318,-0.0000 c=75
+item=GEAR_DriedRaisins p=-2.9059,1.5565,2.1919 r=-0.0000,96.0301,-0.0000 c=50
+item=GEAR_GroundBeef p=-1.5771,1.1898,0.5550 r=-0.0000,21.2288,-0.0000 c=75
+item=GEAR_BakedBeans p=-2.8375,1.2498,0.6633 r=-0.0000,151.8068,90.0000 c=75
+item=GEAR_ChickenMeatballs p=-2.4547,0.3895,0.5710 r=0.0000,345.1335,0.0000 c=75
+item=GEAR_SwedishMeatballs p=-2.3448,0.3895,0.5895 r=-0.0000,52.4139,-0.0000 c=75
+item=GEAR_RandomCannedFood p=-1.7054,0.0606,1.3685 r=0.0000,358.5305,90.0000 c=50
+item=GEAR_RandomCannedFood p=-2.1487,0.4495,0.5238 r=0.0000,322.2094,90.0000 c=50
+item=GEAR_AppleSauceJar p=-1.8991,1.1898,-0.4236 r=-0.0000,26.8602,-0.0000 c=75
+item=GEAR_AppleSauceJar p=-2.0124,1.1898,-0.4752 r=0.0000,305.4744,0.0000 c=50
+item=GEAR_RandomBox p=0.6003,0.3886,-4.0504 r=-0.0000,34.7786,-0.0000 c=75
+item=GEAR_RandomBox p=0.8920,0.1036,-3.4731 r=0.0000,332.4498,90.0000 c=75
+item=GEAR_RandomBox p=1.0257,0.3886,-3.8049 r=0.0000,322.9879,0.0000 c=75
+item=GEAR_PremiumPasta p=0.7791,0.4286,-3.9226 r=90.0000,304.1267,0.0000 c=75
+item=GEAR_MashedPotatoes p=0.3397,0.0036,-5.1527 r=-0.0000,178.1543,-0.0000 c=75
+item=GEAR_MashedPotatoes p=0.3920,0.0036,-5.2724 r=-0.0000,157.9710,-0.0000 c=50
+item=GEAR_CrushedTomatoes p=-1.7891,1.1898,0.3658 r=-0.0000,33.8914,-0.0000 c=85
+item=GEAR_CrushedTomatoes p=-1.8264,1.2498,0.4958 r=0.0000,316.7071,90.0001 c=75
+item=GEAR_CrushedTomatoes p=-1.7416,1.1898,0.4739 r=0.0000,288.0348,0.0000 c=50
+
+scene=radiocontrolhut
+item=GEAR_CrushedTomatoes p=-0.1595,0.3882,1.8827 r=-0.0000,157.3848,-0.0000 c=50
+item=GEAR_RandomCannedFood p=0.6640,0.0406,1.9184 r=-0.0000,100.7792,90.0000 c=50
+item=GEAR_AppleSnacks p=-0.2831,1.0335,0.8386 r=0.0000,359.4211,0.0000 c=25
+
+scene=BarnHouseB
+item=GEAR_AppleSnacks p=0.5461,0.5158,14.6898 r=-0.0000,90.1672,-0.0000 c=50
+item=GEAR_AppleSnacks p=0.7841,0.5158,14.7366 r=0.0000,197.3105,0.0000 c=25
+item=GEAR_AppleSnacks p=0.7668,0.5158,14.6139 r=0.0000,195.2917,0.0000 c=25
+item=GEAR_CrushedTomatoes p=1.4576,1.4264,14.7805 r=0.0000,218.9720,0.0000 c=50
+item=GEAR_CrushedTomatoes p=1.3702,1.4264,14.6134 r=-0.0000,170.1841,-0.0000 c=25
+
+scene=HouseBasementPV
+item=GEAR_OrangeBiscuits p=-1.4097,1.6052,-2.1126 r=-0.0000,133.1914,-0.0000 c=50
+item=GEAR_CrushedTomatoes p=-1.2120,0.9622,-2.1080 r=-0.0000,12.4331,-0.0000 c=50

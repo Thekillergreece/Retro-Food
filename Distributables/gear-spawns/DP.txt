@@ -1,0 +1,29 @@
+#DESOLATION POINT SPAWN POINTS
+
+scene=whalingstationregion
+# Church
+item=GEAR_CrushedTomatoes p=562.1254,63.6105,1103.7512 r=-0.0000,50.9527,-0.0000 c=50
+item=GEAR_RandomCannedFood p=562.3633,63.2606,1104.1860 r=-0.0000,287.8237,90.0000 c=50
+
+scene=WhalingWarehouseA
+item=GEAR_OrangeBiscuits p=3.6021,4.9460,-12.1403 r=0.0000,297.6243,0.0000 c=50
+
+scene=LighthouseA
+item=GEAR_OrangeBiscuits p=3.5819,0.9232,3.9442 r=-0.0000,4.5574,-0.0000 c=50
+item=GEAR_RandomCannedFood p=2.4981,4.1271,0.9621 r=0.0000,243.1006,0.0000 c=75
+item=GEAR_RandomCannedFood p=2.4099,4.1271,0.8724 r=0.0000,300.2733,0.0000 c=50
+item=GEAR_DriedRaisins p=2.4733,5.2935,1.2929 r=0.0000,283.2264,0.0000 c=50
+item=GEAR_RandomCannedFood p=2.6523,8.0487,0.9545 r=0.0000,244.1188,0.0000 c=50
+item=GEAR_RandomBox p=2.5856,4.6276,0.4458 r=0.0000,290.6738,0.0000 c=75
+item=GEAR_RandomBox p=2.4102,4.6276,0.5139 r=0.0000,270.2654,0.0000 c=50
+
+scene=WhalingShipA
+item=GEAR_DriedRaisins p=-0.6578,5.2502,-9.3176 r=346.0832,96.2209,358.4608 c=50
+item=GEAR_RandomCannedFood p=-4.4156,4.3532,-6.0971 r=76.0038,267.3540,91.0488 c=50
+
+scene=TrailerSShape
+item=GEAR_RandomCannedFood p=2.2392,0.0355,7.7225 r=-0.0000,155.8254,-0.0000 c=75
+item=GEAR_RandomCannedFood p=2.3027,0.0355,7.5943 r=-0.0000,8.7734,-0.0000 c=50
+item=GEAR_RandomBox p=-0.4172,0.0386,-5.6311 r=1.0797,2.4663,2.5960 c=75
+item=GEAR_PremiumPasta p=-0.3242,0.0386,-5.5299 r=-0.0000,16.2674,-0.0000 c=50
+item=GEAR_OrangeBiscuits p=6.0301,1.0070,-9.9012 r=-0.0000,150.0465,-0.0000 c=25

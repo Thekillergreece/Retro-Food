@@ -1,0 +1,135 @@
+#-----------------
+loottable=BackPack
+#-----------------
+item=DriedRaisins w=1
+
+#----------------------
+loottable=FishingDrawer
+#----------------------
+item=SwedishMeatballs w=3
+item=ChickenMeatballs w=3
+
+#----------------------
+loottable=KitchenDrawer
+#----------------------
+item=OrangeBiscuits w=6
+item=DriedRaisins w=4
+
+#----------------
+loottable=Freezer
+#----------------
+item=AppleSauceJar w=2
+
+#---------------
+loottable=Fridge
+#---------------
+item=AppleSauceJar w=3
+
+#---------------
+loottable=PlasticBox
+#---------------
+item=SwedishMeatballs w=1
+item=ChickenMeatballs w=1
+
+#--------------------
+loottable=HumanCorpse
+#--------------------
+item=DriedRaisins w=1
+item=GroundBeef w=1
+item=BakedBeans w=1
+item=SwedishMeatballs w=1
+item=ChickenMeatballs w=1
+
+#------------------------
+loottable=KitchenCupboard
+#------------------------
+item=AppleSnacks w=5
+item=PremiumPasta w=5
+item=MashedPotatoes w=5
+item=MacCheese w=5
+
+#---------------
+loottable=Locker
+#---------------
+item=GroundBeef w=1
+item=BakedBeans w=1
+item=SwedishMeatballs w=1
+item=ChickenMeatballs w=1
+item=AppleSnacks w=1
+
+#---------------
+loottable=LockerLocked
+#---------------
+item=GroundBeef w=3
+item=BakedBeans w=3
+item=SwedishMeatballs w=3
+item=ChickenMeatballs w=3
+item=AppleSnacks w=2
+item=AppleSauceJar w=1
+
+#-------------------------
+loottable=Wardrobe_regular
+#-------------------------
+item=AppleSnacks w=2
+
+#-------------------------
+loottable=VehicleTrunk
+#-------------------------
+item=GroundBeef w=3
+item=BakedBeans w=3
+item=SwedishMeatballs w=3
+item=ChickenMeatballs w=3
+
+#-------------------------
+loottable=VehicleTrunkLocked
+#-------------------------
+item=GroundBeef w=5
+item=BakedBeans w=5
+item=SwedishMeatballs w=5
+item=ChickenMeatballs w=5
+
+#-------------------------
+loottable=VehicleGloveBox
+#-------------------------
+item=OrangeBiscuits w=3
+item=DriedRaisins w=3
+
+#-------------------------
+loottable=CargoFoodA
+#-------------------------
+item=OrangeBiscuits w=1
+item=DriedRaisins w=1
+item=AppleSnacks w=1
+
+#-------------------------
+loottable=CargoFoodB
+#-------------------------
+item=GroundBeef w=3
+item=BakedBeans w=3
+item=SwedishMeatballs w=3
+item=ChickenMeatballs w=3
+
+#-------------------------
+loottable=CargoFoodC
+#-------------------------
+item=AppleSauceJar w=1
+
+#-------------------------
+loottable=CargoFoodRareA
+#-------------------------
+item=PremiumPasta w=3
+item=MashedPotatoes w=3
+item=MacCheese w=3
+
+#-----------------
+loottable=Oven
+#-----------------
+item=PremiumPastaCooked w=3
+item=MashedPotatoesCooked w=3
+item=MacCheeseCooked w=3
+
+#-----------------
+loottable=Suitcase
+#-----------------
+item=OrangeBiscuits w=3
+item=DriedRaisins w=3

@@ -1,0 +1,27 @@
+#BLEAK INLET SPAWN POINTS
+
+# Bleak Inlet
+scene=CanneryRegion
+# Tower
+item=GEAR_GroundBeef p=300.4297,239.4488,347.9031 r=-0.0000,32.7451,-0.0000 c=75
+item=GEAR_SwedishMeatballs p=300.1919,239.5088,348.0333 r=0.0000,247.0049,90.0000 c=75
+item=GEAR_SwedishMeatballs p=300.3266,239.4488,348.0013 r=0.0000,295.9335,0.0000 c=50
+item=GEAR_MacCheese p=299.3451,239.3990,351.8377 r=-0.0000,86.0574,-0.0000 c=75
+item=GEAR_AppleSnacks p=299.4390,239.0591,351.7705 r=270.0000,74.9867,0.0000 c=50
+# Highway Cars
+item=GEAR_MacCheese p=-92.9356,50.2542,-323.8079 r=0.3355,358.7822,0.6335 c=50
+
+
+scene=RadioControlHutB
+item=GEAR_BakedBeans p=1.9237,0.9645,-3.3307 r=-0.0000,47.5579,-0.0000 c=50
+item=GEAR_DriedRaisins p=1.7193,1.7695,0.1534 r=0.0000,330.1315,0.0000 c=50
+
+scene=CanneryTrailerA
+item=GEAR_PremiumPasta p=1.8546,0.2624,-1.3748 r=-0.0000,27.4715,-0.0000 c=50
+item=GEAR_OrangeBiscuits p=-0.2485,0.8987,-1.5696 r=-0.0000,85.5538,-0.0000 c=50
+
+scene=MaintenanceShedB
+item=GEAR_PremiumPastaCooked p=-5.3432,1.0039,-21.7497 r=0.0000,321.3849,0.0000 c=85
+item=GEAR_OrangeBiscuits p=-7.7345,1.3338,-24.9393 r=-0.0000,4.5566,-0.0000 c=50
+item=GEAR_AppleSauceJar p=-11.2816,1.0611,-22.3966 r=86.1360,236.3174,277.2480 c=50
+item=GEAR_MashedPotatoes p=-7.6504,0.0432,-25.1693 r=270.0000,16.2137,0.0000 c=50

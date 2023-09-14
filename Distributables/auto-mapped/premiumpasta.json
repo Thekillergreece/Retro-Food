@@ -1,0 +1,40 @@
+{
+    "ModCookableComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_PremiumPasta",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_PremiumPastaDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.6,
+                            "DaysToDecay" : 720,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvBoxCrackers",
+                            "PutBackAudio" : "Play_SndInvBoxCrackers",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.8,
+                            "InspectAngles" : [-5, 200, 0],
+                            "InspectOffset" : [0, -0.15, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 15,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0.5,
+                            "CookingResult" : "GEAR_PremiumPastaCooked",
+                            "BurntMinutes" : 30,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : ""
+                        },
+    "ModStackableBehaviour": {
+                            "SingleUnitTextId" : "GAMEPLAY_PremiumPasta",
+                            "MultipleUnitTextId" : "GAMEPLAY_PremiumPasta",
+                            "StackSprite" : "",
+                            "UnitsPerItem" : 3,
+                            "ChanceFull" : 100
+                            }
+}

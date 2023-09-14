@@ -1,0 +1,92 @@
+{
+    "GAMEPLAY_BakedBeans": {
+        "English": "Can of Baked Beans",
+    },
+    "GAMEPLAY_BakedBeansDescription": {
+        "English": "Can of Baked Beans. Nothing special. Good for beans on toast, if you´re into that.",
+    },
+	"GAMEPLAY_GroundBeef": {
+        "English": "Can of Ground Beef",
+    },
+    "GAMEPLAY_GroundBeefDescription": {
+        "English": "What do you call a cow with no legs? Ground beef!",
+    },
+	"GAMEPLAY_CrushedTomatoes": {
+        "English": "Can of Crushed Tomatoes",
+    },
+    "GAMEPLAY_CrushedTomatoesDescription": {
+        "English": "Boring. Needs spices and some protein.",
+    },
+	"GAMEPLAY_SwedishMeatballs": {
+        "English": "Can of Swedish Meatballs",
+    },
+    "GAMEPLAY_SwedishMeatballsDescription": {
+        "English": "Traditional Swedish Meatballs!",
+    },
+	"GAMEPLAY_ChickenMeatballs": {
+        "English": "Can of Chicken Meatballs",
+    },
+    "GAMEPLAY_ChickenMeatballsDescription": {
+        "English": "The less-traditional version of Swedish meatballs.",
+    },
+	"GAMEPLAY_AppleSnacks": {
+        "English": "Box of Apple Snacks",
+    },
+    "GAMEPLAY_AppleSnacksDescription": {
+        "English": "Dried, sweet pieces of apple. Yum!",
+    },
+	"GAMEPLAY_MacCheese": {
+        "English": "Box of Mac & Cheese",
+    },
+    "GAMEPLAY_MacCheeseDescription": {
+        "English": "One of the best combinations, maybe ever.",
+    },
+	"GAMEPLAY_MacCheeseCooked": {
+        "English": "Bowl of Mac & Cheese",
+    },
+    "GAMEPLAY_MacCheeseCookedDescription": {
+        "English": "Full of creamy, cheese-y goodness.",
+    },
+	"GAMEPLAY_PremiumPasta": {
+        "English": "Box of Pasta",
+    },
+    "GAMEPLAY_PremiumPastaDescription": {
+        "English": "Dried pasta, a good household staple.",
+    },
+	"GAMEPLAY_PremiumPastaCooked": {
+        "English": "Bowl of Pasta",
+    },
+    "GAMEPLAY_PremiumPastaCookedDescription": {
+        "English": "Boring. Bland. Needs some type of sauce.",
+    },
+	"GAMEPLAY_DriedRaisins": {
+        "English": "Raisins",
+    },
+    "GAMEPLAY_DriedRaisinsDescription": {
+        "English": "Small and sweet.",
+    },
+	"GAMEPLAY_MashedPotatoes": {
+        "English": "Mashed Potatoes",
+    },
+    "GAMEPLAY_MashedPotatoesDescription": {
+        "English": "Powdered Mashed Potatoes, add water to make it edible.",
+    },
+	"GAMEPLAY_MashedPotatoesCooked": {
+        "English": "Bowl of Mashed Potatoes",
+    },
+    "GAMEPLAY_MashedPotatoesCookedDescription": {
+        "English": "Soft, creamy and delicious. Eat it while it´s hot!",
+    },
+	"GAMEPLAY_AppleSauceJar": {
+        "English": "Apple Sauce",
+    },
+    "GAMEPLAY_AppleSauceJarDescription": {
+        "English": "Basically just apples and sugar, but oh-so-good.",
+    },
+	"GAMEPLAY_OrangeBiscuits": {
+        "English": "Orange Biscuits",
+    },
+    "GAMEPLAY_OrangeBiscuitsDescription": {
+        "English": "Simple Biscuits with a faint orange flavour.",
+    },
+}

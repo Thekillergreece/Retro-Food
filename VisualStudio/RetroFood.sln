@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetroFood", "RetroFood.csproj", "{BF85CE5E-CCF7-4315-864B-B5AFB27DFAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF85CE5E-CCF7-4315-864B-B5AFB27DFAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF85CE5E-CCF7-4315-864B-B5AFB27DFAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF85CE5E-CCF7-4315-864B-B5AFB27DFAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF85CE5E-CCF7-4315-864B-B5AFB27DFAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E1FF53-E677-4104-B8B1-20B2764ECE30}
+	EndGlobalSection
+EndGlobal

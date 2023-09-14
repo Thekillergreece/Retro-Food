@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\My mods\Retro Food\VisualStudio\bin\Debug\net6.0\RetroFood.deps.json
+C:\Users\PC\Desktop\My mods\Retro Food\VisualStudio\bin\Debug\net6.0\RetroFood.dll
+C:\Users\PC\Desktop\My mods\Retro Food\VisualStudio\obj\Debug\net6.0\RetroFood.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\My mods\Retro Food\VisualStudio\obj\Debug\net6.0\RetroFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\My mods\Retro Food\VisualStudio\obj\Debug\net6.0\RetroFood.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\My mods\Retro Food\VisualStudio\obj\Debug\net6.0\RetroFood.dll
+C:\Users\PC\Desktop\My mods\Retro Food\VisualStudio\obj\Debug\net6.0\refint\RetroFood.dll
+C:\Users\PC\Desktop\My mods\Retro Food\VisualStudio\obj\Debug\net6.0\ref\RetroFood.dll

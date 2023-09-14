@@ -1,0 +1,18 @@
+# Pleasant Valley to Blackrock
+scene=CanyonRoadTransitionZone
+item=GEAR_OrangeBiscuits p=470.6845,58.9553,735.4763 r=0.1325,312.6902,0.4621 c=25
+item=GEAR_DriedRaisins p=310.6026,72.2379,382.2675 r=1.8353,33.1105,358.7359 c=25
+item=GEAR_AppleSnacks p=337.8116,72.7293,389.1736 r=0.4624,332.8257,2.0671 c=25
+item=GEAR_CrushedTomatoes p=392.6194,72.3565,435.0752 r=36.5007,221.6077,324.8500 c=25
+item=GEAR_RandomCannedFood p=233.6515,40.7182,421.3228 r=0.0000,206.7318,0.0000 c=40
+
+# Keepers North
+scene=BlackrockTransitionZone
+item=GEAR_BakedBeans p=761.2166,244.1375,-147.7937 r=17.0121,264.3965,5.4303 c=100
+item=GEAR_RandomCannedFood p=759.2092,244.6809,-161.2098 r=299.9999,39.1648,-0.0000 c=50
+
+# Hub Region that connects to 3 regions of the DLC
+scene=HubRegion
+item=GEAR_OrangeBiscuits p=128.8334,252.0288,405.1788 r=0.0000,226.1875,0.0000 c=75
+item=GEAR_AppleSnacks p=130.1336,251.5785,405.3674 r=-0.0000,68.6521,-0.0000 c=50
+
