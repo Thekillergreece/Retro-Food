@@ -1,7 +1,7 @@
 # Retro Food by Inarissa and Thekillergreece
- This Swedish retro food pack was created by Inarissa and in collaboration with Thekillergreece. This is a food mod for The Long Dark.
+ This retro food pack was created by Inarissa and in collaboration with Thekillergreece. This is a food mod for The Long Dark.
 
-![RetroFood](https://github.com/Thekillergreece/Retro-Food/assets/95387832/1d79396a-b834-4b76-b641-63e1381b83ac)
+![RetroFood](https://github.com/Thekillergreece/Retro-Food/assets/95387832/e23bc173-77cd-4000-88b0-bffeced16a73)
 
 ### Introduction
 ---
@@ -26,3 +26,7 @@ English.
 - Install the latest version of ModComponent and its dependencies.
 - Use RetroFood folder from the folder.
 - Move all files to your mods folder.
+
+### Thanks
+---
+Thanks to Waltz for the 3D models loan.
