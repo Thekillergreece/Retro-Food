@@ -112,7 +112,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: ab22c6f69ac204442914ad7ef76deb0b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0dfc70ab60930aa40a2f9505e4625ed0, type: 2}
+      objectReference: {fileID: 2100000, guid: bf950a2c993858b48aa6d1a403bad1b9, type: 2}
     - target: {fileID: 919132149155446097, guid: ab22c6f69ac204442914ad7ef76deb0b, type: 3}
       propertyPath: m_Name
       value: Bag

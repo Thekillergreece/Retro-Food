@@ -175,7 +175,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 11b65e5cf1230854faf89fb2dbb3c831, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 49c707c4c86cb0e42a469bd4d9b54113, type: 2}
+      objectReference: {fileID: 2100000, guid: c69367d8f5c38c945b85f8f444dca648, type: 2}
     - target: {fileID: 919132149155446097, guid: 11b65e5cf1230854faf89fb2dbb3c831, type: 3}
       propertyPath: m_Name
       value: BoxFood
