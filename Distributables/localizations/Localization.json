@@ -1,92 +1,122 @@
 {
     "GAMEPLAY_BakedBeans": {
         "English": "Can of Baked Beans",
+        "Turkish": "Bir Kutu Kuru Fasulye"
     },
     "GAMEPLAY_BakedBeansDescription": {
         "English": "Can of Baked Beans. Nothing special. Good for beans on toast, if you´re into that.",
+        "Turkish": "Bir kutu kuru fasulye. Özel bir şey değil. Eğer seviyorsanız, ekmekle sokumlayıp yiyin."
     },
-	"GAMEPLAY_GroundBeef": {
+    "GAMEPLAY_GroundBeef": {
         "English": "Can of Ground Beef",
+        "Turkish": "Bir Kutu Kıyma"
     },
     "GAMEPLAY_GroundBeefDescription": {
         "English": "What do you call a cow with no legs? Ground beef!",
+        "Turkish": "Bacakları olmayan bir ineğe ne denir? Kıyma!"
     },
-	"GAMEPLAY_CrushedTomatoes": {
+    "GAMEPLAY_CrushedTomatoes": {
         "English": "Can of Crushed Tomatoes",
+        "Turkish": "Ezilmiş Domates Konservesi"
     },
     "GAMEPLAY_CrushedTomatoesDescription": {
         "English": "Boring. Needs spices and some protein.",
+        "Turkish": "Sıkıcı. Baharat ve biraz protein lazım."
     },
-	"GAMEPLAY_SwedishMeatballs": {
+    "GAMEPLAY_SwedishMeatballs": {
         "English": "Can of Swedish Meatballs",
+        "Turkish": "Bir Kutu İsveç Köftesi"
     },
     "GAMEPLAY_SwedishMeatballsDescription": {
         "English": "Traditional Swedish Meatballs!",
+        "Turkish": "Geleneksel İsveç Köftesi!"
     },
-	"GAMEPLAY_ChickenMeatballs": {
+    "GAMEPLAY_ChickenMeatballs": {
         "English": "Can of Chicken Meatballs",
+        "Turkish": "Bir Kutu Tavuk Köftesi"
     },
     "GAMEPLAY_ChickenMeatballsDescription": {
         "English": "The less-traditional version of Swedish meatballs.",
+        "Turkish": "İsveç köftesinin daha az geleneksel versiyonu."
     },
-	"GAMEPLAY_AppleSnacks": {
+    "GAMEPLAY_AppleSnacks": {
         "English": "Box of Apple Snacks",
+        "Turkish": "Bir Kutu Elmalı Atıştırmalık"
     },
     "GAMEPLAY_AppleSnacksDescription": {
         "English": "Dried, sweet pieces of apple. Yum!",
+        "Turkish": "Kurutulmuş, tatlı elma parçaları. Nefis!"
     },
-	"GAMEPLAY_MacCheese": {
+    "GAMEPLAY_MacCheese": {
         "English": "Box of Mac & Cheese",
+        "Turkish": "Bir Kutu Mac'n'cheese (Macaroni soslu, Peynirli Makarna)"
     },
     "GAMEPLAY_MacCheeseDescription": {
         "English": "One of the best combinations, maybe ever.",
+        "Turkish": "Belki de gelmiş geçmiş en iyi kombinasyonlardan biri."
     },
-	"GAMEPLAY_MacCheeseCooked": {
+    "GAMEPLAY_MacCheeseCooked": {
         "English": "Bowl of Mac & Cheese",
+        "Turkish": "Bir Kase Mac'n'cheese (Macaroni soslu, Peynirli Makarna)"
     },
     "GAMEPLAY_MacCheeseCookedDescription": {
         "English": "Full of creamy, cheese-y goodness.",
+        "Turkish": "Kremalı, peynirli iyilik dolu."
     },
-	"GAMEPLAY_PremiumPasta": {
+    "GAMEPLAY_PremiumPasta": {
         "English": "Box of Pasta",
+        "Turkish": "Bir Kutu Makarna"
     },
     "GAMEPLAY_PremiumPastaDescription": {
         "English": "Dried pasta, a good household staple.",
+        "Turkish": "Kurutulmuş makarna, iyi bir ev gıdasıdır."
     },
-	"GAMEPLAY_PremiumPastaCooked": {
+    "GAMEPLAY_PremiumPastaCooked": {
         "English": "Bowl of Pasta",
+        "Turkish": "Bir Kase Makarna"
     },
     "GAMEPLAY_PremiumPastaCookedDescription": {
         "English": "Boring. Bland. Needs some type of sauce.",
+        "Turkish": "Sıkıcı. Tatsız. Bir çeşit sosa ihtiyaç var."
     },
-	"GAMEPLAY_DriedRaisins": {
+    "GAMEPLAY_DriedRaisins": {
         "English": "Raisins",
+        "Turkish": "Kuru Üzüm"
     },
     "GAMEPLAY_DriedRaisinsDescription": {
         "English": "Small and sweet.",
+        "Turkish": "Küçük ve tatlı."
     },
-	"GAMEPLAY_MashedPotatoes": {
+    "GAMEPLAY_MashedPotatoes": {
         "English": "Mashed Potatoes",
+        "Turkish": "Patates Püresi"
     },
     "GAMEPLAY_MashedPotatoesDescription": {
         "English": "Powdered Mashed Potatoes, add water to make it edible.",
+        "Turkish": "Toz Patates Püresi, yenilebilir hale getirmek için su ekleyin."
     },
-	"GAMEPLAY_MashedPotatoesCooked": {
+    "GAMEPLAY_MashedPotatoesCooked": {
         "English": "Bowl of Mashed Potatoes",
+        "Turkish": "Bir Kase Patates Püresi"
     },
     "GAMEPLAY_MashedPotatoesCookedDescription": {
         "English": "Soft, creamy and delicious. Eat it while it´s hot!",
+        "Turkish": "Yumuşak, kremsi ve lezzetli. Sıcakken yiyin!"
     },
-	"GAMEPLAY_AppleSauceJar": {
+    "GAMEPLAY_AppleSauceJar": {
         "English": "Apple Sauce",
+        "Turkish": "Elma Sosu"
     },
     "GAMEPLAY_AppleSauceJarDescription": {
         "English": "Basically just apples and sugar, but oh-so-good.",
+        "Turkish": "Temelde sadece elma ve şeker, ama çok iyi."
     },
-	"GAMEPLAY_OrangeBiscuits": {
+    "GAMEPLAY_OrangeBiscuits": {
         "English": "Orange Biscuits",
+        "Turkish": "Portakallı Bisküvi"
     },
     "GAMEPLAY_OrangeBiscuitsDescription": {
         "English": "Simple Biscuits with a faint orange flavour.",
-    },
+        "Turkish": "Hafif portakal aromalı sade bisküviler."
+    }
 }
