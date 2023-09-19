@@ -15,7 +15,7 @@ C:/Users/PC/Desktop/My mods/Retro Food/Unity
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-61837
+55444
 Successfully changed project path to: C:/Users/PC/Desktop/My mods/Retro Food/Unity
 C:/Users/PC/Desktop/My mods/Retro Food/Unity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/PC/Desktop/My mods/Retro Food/Unity
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 86.40 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 104.21 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.6f1 (7da38d85baf6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
@@ -63,76 +63,76 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56944
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56868
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007611 seconds.
+Registered in 0.009130 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 89.28 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 81.47 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.644 seconds
+- Completed reload, in  0.643 seconds
 Domain Reload Profiling:
 	ReloadAssembly (644ms)
-		BeginReloadAssembly (85ms)
+		BeginReloadAssembly (77ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (455ms)
-			LoadAssemblies (82ms)
+		EndReloadAssembly (451ms)
+			LoadAssemblies (75ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (96ms)
+			SetupTypeCache (109ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (284ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (266ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (89ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (139ms)
-				ProcessInitializeOnLoadMethodAttributes (46ms)
+				RefreshPlugins (82ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (133ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006752 seconds.
+Registered in 0.007673 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Desktop\My mods\Retro Food\Unity\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Desktop\My mods\Retro Food\Unity\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.055 seconds
+- Completed reload, in  1.097 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1056ms)
-		BeginReloadAssembly (104ms)
+	ReloadAssembly (1098ms)
+		BeginReloadAssembly (129ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (840ms)
-			LoadAssemblies (109ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (843ms)
+			LoadAssemblies (98ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (243ms)
+			SetupTypeCache (264ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (50ms)
-			SetupLoadedEditorAssemblies (408ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (412ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (95ms)
-				ProcessInitializeOnLoadAttributes (266ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
-				AfterProcessingInitializeOnLoad (9ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (270ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (11ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
@@ -140,12 +140,12 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3861 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 27 unused Assets / (111.0 KB). Loaded Objects now: 4335.
-Memory consumption went from 145.3 MB to 145.2 MB.
-Total: 3.226800 ms (FindLiveObjects: 0.317000 ms CreateObjectMapping: 0.265200 ms MarkObjects: 2.549200 ms  DeleteObjects: 0.094600 ms)
+Unloading 25 unused Assets / (55.3 KB). Loaded Objects now: 4323.
+Memory consumption went from 133.4 MB to 133.3 MB.
+Total: 3.322500 ms (FindLiveObjects: 0.452400 ms CreateObjectMapping: 0.246600 ms MarkObjects: 2.548600 ms  DeleteObjects: 0.073800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -159,58 +159,58 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 504681.328977 seconds.
-  path: Assets/Prefabs/Random Items
-  artifactKey: Guid(86ee9faa2258da14782c68c1e44a6fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Random Items using Guid(86ee9faa2258da14782c68c1e44a6fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f5a328155430493a2449f174178312') in 0.006089 seconds 
+  Time since last request: 336122.062101 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__AppleSnacks.png
+  artifactKey: Guid(88d985d31c19bd94fb3928a4efc1e35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__AppleSnacks.png using Guid(88d985d31c19bd94fb3928a4efc1e35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b51a3006c85899ed84eeb78d9d33bfe') in 0.165047 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 20338.778304 seconds.
-  path: Assets/Models/Textures/Inarissa/Canned/Materials/GroundBeefMesh.mat
-  artifactKey: Guid(09c8c221f5b5fe04884dff96f069753e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/Inarissa/Canned/Materials/GroundBeefMesh.mat using Guid(09c8c221f5b5fe04884dff96f069753e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f095e8c3024f5ae9fc4e6c8817edd2') in 0.129804 seconds 
+  Time since last request: 0.000027 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__GroundBeefOpened.png
+  artifactKey: Guid(ac75e744141bd454ea0dd6cc32746319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__GroundBeefOpened.png using Guid(ac75e744141bd454ea0dd6cc32746319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5591a0cc0d8a76f94378de80d606b0c3') in 0.013579 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1197.083049 seconds.
-  path: Assets/Prefabs/GEAR_GroundBeefOpened.prefab
-  artifactKey: Guid(ba8784b87cb4df943a56e2a2a15f3518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_GroundBeefOpened.prefab using Guid(ba8784b87cb4df943a56e2a2a15f3518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a5715c8ffe24455fac8752873d2fd8') in 0.030244 seconds 
+  Time since last request: 0.000036 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__GroundBeef.png
+  artifactKey: Guid(0fc941c696dc6314dac507223558dda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__GroundBeef.png using Guid(0fc941c696dc6314dac507223558dda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '818d0c7890428179124cc333834d7324') in 0.010692 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 234.956616 seconds.
-  path: Assets/Prefabs/GEAR_GroundBeefOpened.prefab
-  artifactKey: Guid(ba8784b87cb4df943a56e2a2a15f3518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_GroundBeefOpened.prefab using Guid(ba8784b87cb4df943a56e2a2a15f3518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53d1bb11f70c57b923381d94da7584e') in 0.018295 seconds 
+  Time since last request: 0.000028 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__OrangeBiscuits.png
+  artifactKey: Guid(383122cbd181fbd46ad05de1f445d6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__OrangeBiscuits.png using Guid(383122cbd181fbd46ad05de1f445d6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd1fe163c187aa03fe8711044396b64') in 0.010314 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 201.366221 seconds.
-  path: Assets/Prefabs/GEAR_GroundBeef.prefab
-  artifactKey: Guid(1ceba1015caa16b40b713ebf0e503d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_GroundBeef.prefab using Guid(1ceba1015caa16b40b713ebf0e503d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9834842cc45c98c69d90aea4a580ee0d') in 0.021214 seconds 
+  Time since last request: 0.000023 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__ChickenMeatballsOpened.png
+  artifactKey: Guid(f08b5d5a75b69124e83d0634ab6e62b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__ChickenMeatballsOpened.png using Guid(f08b5d5a75b69124e83d0634ab6e62b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd011763124c7f771449bf8ff28e3d2') in 0.010794 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 242.680423 seconds.
-  path: Assets/Models/Textures/Inarissa/Canned/Materials/crushedtomatoes.mat
-  artifactKey: Guid(af982dd14c44aaa479eaf6bf2c7d43c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/Inarissa/Canned/Materials/crushedtomatoes.mat using Guid(af982dd14c44aaa479eaf6bf2c7d43c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3cf76edc2de0da8d3395e9fad806fb') in 0.010346 seconds 
+  Time since last request: 0.000025 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__DriedRaisins.png
+  artifactKey: Guid(6c67dd597beea994c952396f0c7ffa51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__DriedRaisins.png using Guid(6c67dd597beea994c952396f0c7ffa51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c041952df3d9fb7579846d9b88bf94') in 0.010972 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Models/Textures/Inarissa/Canned/Materials/swedishmeatballs2.mat
-  artifactKey: Guid(9032be9f1a52cf142a429029b2bcf46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/Inarissa/Canned/Materials/swedishmeatballs2.mat using Guid(9032be9f1a52cf142a429029b2bcf46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf9875551d4d3bbbe434c0e2a14541b') in 0.013058 seconds 
+  Time since last request: 0.000030 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__BakedBeans.png
+  artifactKey: Guid(d5facd919a230bf41ab59536388321ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__BakedBeans.png using Guid(d5facd919a230bf41ab59536388321ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a30196c98f739970c42e6803192ca1b') in 0.010722 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 28.403800 seconds.
-  path: Assets/Prefabs/GEAR_CrushedTomatoes.prefab
-  artifactKey: Guid(ae7d0bd40cb1db54688f8114b8ab636c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_CrushedTomatoes.prefab using Guid(ae7d0bd40cb1db54688f8114b8ab636c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83c6f5956ce8e9914d5a8161d4bdad8') in 0.014148 seconds 
+  Time since last request: 0.000025 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__MashedPotatoesCooked.png
+  artifactKey: Guid(9f8860adc33e6e145b513afac6883c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__MashedPotatoesCooked.png using Guid(9f8860adc33e6e145b513afac6883c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462e92b382cdfab92985094dee941fe9') in 0.012488 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Prefabs/GEAR_GroundBeef.prefab
-  artifactKey: Guid(1ceba1015caa16b40b713ebf0e503d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_GroundBeef.prefab using Guid(1ceba1015caa16b40b713ebf0e503d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '984b4f763bab0b2a27eb68ae8f269d68') in 0.011513 seconds 
+  Time since last request: 0.000024 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__MacCheese.png
+  artifactKey: Guid(86f1978ed93436a4aa76f7a655b965d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__MacCheese.png using Guid(86f1978ed93436a4aa76f7a655b965d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2dff52e8332226036718e52bba1bd87') in 0.011854 seconds 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
