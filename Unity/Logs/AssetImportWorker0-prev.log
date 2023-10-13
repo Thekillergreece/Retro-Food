@@ -15,7 +15,7 @@ C:/Users/PC/Desktop/My mods/Retro Food/Unity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55444
+61110
 Successfully changed project path to: C:/Users/PC/Desktop/My mods/Retro Food/Unity
 C:/Users/PC/Desktop/My mods/Retro Food/Unity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/PC/Desktop/My mods/Retro Food/Unity
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 85.68 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 86.23 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.6f1 (7da38d85baf6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
@@ -58,42 +58,42 @@ Direct3D:
     Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
     Vendor:   NVIDIA
     VRAM:     10067 MB
-    Driver:   31.0.15.3623
+    Driver:   31.0.15.3742
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56904
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56416
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.013298 seconds.
+Registered in 0.009969 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 76.76 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 80.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.735 seconds
+- Completed reload, in  0.645 seconds
 Domain Reload Profiling:
-	ReloadAssembly (735ms)
-		BeginReloadAssembly (101ms)
+	ReloadAssembly (645ms)
+		BeginReloadAssembly (89ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (487ms)
-			LoadAssemblies (97ms)
+		EndReloadAssembly (436ms)
+			LoadAssemblies (86ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (130ms)
+			SetupTypeCache (101ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (277ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (260ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (77ms)
+				RefreshPlugins (81ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (148ms)
+				ProcessInitializeOnLoadAttributes (126ms)
 				ProcessInitializeOnLoadMethodAttributes (44ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -101,38 +101,38 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007388 seconds.
+Registered in 0.008056 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Desktop\My mods\Retro Food\Unity\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Desktop\My mods\Retro Food\Unity\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.118 seconds
+- Completed reload, in  1.073 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1119ms)
-		BeginReloadAssembly (120ms)
+	ReloadAssembly (1073ms)
+		BeginReloadAssembly (110ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (21ms)
-		EndReloadAssembly (884ms)
-			LoadAssemblies (91ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (848ms)
+			LoadAssemblies (87ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (302ms)
+			SetupTypeCache (261ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (412ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (419ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (96ms)
-				ProcessInitializeOnLoadAttributes (267ms)
-				ProcessInitializeOnLoadMethodAttributes (30ms)
-				AfterProcessingInitializeOnLoad (11ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (269ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (10ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
@@ -143,9 +143,9 @@ Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 second
 Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3861 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 25 unused Assets / (55.3 KB). Loaded Objects now: 4323.
-Memory consumption went from 133.4 MB to 133.3 MB.
-Total: 3.318700 ms (FindLiveObjects: 0.282000 ms CreateObjectMapping: 0.207200 ms MarkObjects: 2.763600 ms  DeleteObjects: 0.065100 ms)
+Unloading 25 unused Assets / (55.3 KB). Loaded Objects now: 4325.
+Memory consumption went from 133.6 MB to 133.6 MB.
+Total: 3.282700 ms (FindLiveObjects: 0.286000 ms CreateObjectMapping: 0.204800 ms MarkObjects: 2.715000 ms  DeleteObjects: 0.075800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -159,217 +159,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 333529.184515 seconds.
-  path: Assets/Prefabs/GEAR_PremiumPasta.prefab
-  artifactKey: Guid(835e719ef07d52b45bc8db1f9d5eec41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_PremiumPasta.prefab using Guid(835e719ef07d52b45bc8db1f9d5eec41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8633baa4ae8f8b69126164a2eb86c54b') in 0.129590 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2592.742352 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__AppleSauceJar.png
-  artifactKey: Guid(a2d03fe4cceea5d4db4d53abc3d19506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__AppleSauceJar.png using Guid(a2d03fe4cceea5d4db4d53abc3d19506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485d605fd1020c5d40bbc992a863fc85') in 0.084098 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.060732 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__ChickenMeatballs.png
-  artifactKey: Guid(658a460ff3134e343867b43e46f5bbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__ChickenMeatballs.png using Guid(658a460ff3134e343867b43e46f5bbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf278c6c098649625a9b318f823f8711') in 0.010930 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__PremiumPastaCooked.png
-  artifactKey: Guid(15e11adcf14d96a4b987326de7f3abbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__PremiumPastaCooked.png using Guid(15e11adcf14d96a4b987326de7f3abbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88609576273b2c84e5d9503f0e56eec9') in 0.012611 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__MacCheeseCooked.png
-  artifactKey: Guid(26cc5d448aebbd24c8c57b3a009e395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__MacCheeseCooked.png using Guid(26cc5d448aebbd24c8c57b3a009e395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22348eddca54616fe347e0a8fd4a2139') in 0.011043 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__SwedishMeatballs.png
-  artifactKey: Guid(78dd30750cf32ac488c0d495185346f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__SwedishMeatballs.png using Guid(78dd30750cf32ac488c0d495185346f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e449709ec73a30af7c7b601708c28d') in 0.010780 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__CrushedTomatoesOpened.png
-  artifactKey: Guid(4e95b01d51c0fe64e82b155195c1699f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__CrushedTomatoesOpened.png using Guid(4e95b01d51c0fe64e82b155195c1699f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca9cdb1077bf3ee203df8c06a5b00a9') in 0.011565 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__MashedPotatoes.png
-  artifactKey: Guid(6c38880014fbe2c4a8dc6813374c655e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__MashedPotatoes.png using Guid(6c38880014fbe2c4a8dc6813374c655e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f90fbd12c505218468131230bc604dd') in 0.011522 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__BakedBeansOpened.png
-  artifactKey: Guid(cfba54f83688f2146abfa899b02bbd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__BakedBeansOpened.png using Guid(cfba54f83688f2146abfa899b02bbd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7d162f24a38382773ae654da484257') in 0.012295 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__PremiumPasta.png
-  artifactKey: Guid(2c483a5b5f11eff41ba3df529d195021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__PremiumPasta.png using Guid(2c483a5b5f11eff41ba3df529d195021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3e09b6957e7591e72a0d53cb1f85fe') in 0.010991 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__CrushedTomatoes.png
-  artifactKey: Guid(6db9a6974893dc14c9a5aa8d40fbe10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__CrushedTomatoes.png using Guid(6db9a6974893dc14c9a5aa8d40fbe10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac412943d198ddd4fcb864504d7c1f3f') in 0.012742 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__SwedishMeatballsOpened.png
-  artifactKey: Guid(93f7de3627d6f1a468224e3d081ae735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__SwedishMeatballsOpened.png using Guid(93f7de3627d6f1a468224e3d081ae735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63158d38936497b1a830ce4bbaf18717') in 0.011144 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 137.315110 seconds.
-  path: Assets/InventoryGridIcons/applesnackicon.png
-  artifactKey: Guid(5cf74d9cf893a9748bd16cb85f252230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/applesnackicon.png using Guid(5cf74d9cf893a9748bd16cb85f252230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2649b682febb357196bf4ac7c53eadc8') in 0.014517 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.332455 seconds.
-  path: Assets/InventoryGridIcons/applesnackicon.png
-  artifactKey: Guid(5cf74d9cf893a9748bd16cb85f252230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/applesnackicon.png using Guid(5cf74d9cf893a9748bd16cb85f252230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d3beb50bfb231dab923802324115b1') in 0.013817 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 38.303745 seconds.
-  path: Assets/InventoryGridIcons/bakedbeansopenicon.png
-  artifactKey: Guid(e9da850f7ca6c3344be5bd54948eba95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/bakedbeansopenicon.png using Guid(e9da850f7ca6c3344be5bd54948eba95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36f52be7f464261ebfa9578af9c9e15') in 0.015927 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.016793 seconds.
-  path: Assets/InventoryGridIcons/bakedbeansopenicon.png
-  artifactKey: Guid(e9da850f7ca6c3344be5bd54948eba95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/bakedbeansopenicon.png using Guid(e9da850f7ca6c3344be5bd54948eba95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5286fe1ad9a86498799f7e5a31c6974') in 0.013695 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/InventoryGridIcons/biscuiticon.png
-  artifactKey: Guid(9b82560b6ea3f7a4fa08e3969b4036a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/biscuiticon.png using Guid(9b82560b6ea3f7a4fa08e3969b4036a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1603db3bc032791a899eef91ec9d2e0') in 0.017408 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 97.660595 seconds.
-  path: Assets/InventoryGridIcons/chickenmeatballsopenicon.png
-  artifactKey: Guid(1c9be832cf957ce4894c559fe06f94f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/chickenmeatballsopenicon.png using Guid(1c9be832cf957ce4894c559fe06f94f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1fee19395bdb469bc924954ba7c365') in 0.011219 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/InventoryGridIcons/crushedtomatoesicon.png
-  artifactKey: Guid(57953467f25eb58458c1129c214aa202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/crushedtomatoesicon.png using Guid(57953467f25eb58458c1129c214aa202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae8169096d1faaba9de8094a1926109') in 0.011874 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.500131 seconds.
-  path: Assets/InventoryGridIcons/chickenmeatballsopenicon.png
-  artifactKey: Guid(1c9be832cf957ce4894c559fe06f94f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/chickenmeatballsopenicon.png using Guid(1c9be832cf957ce4894c559fe06f94f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c24d6524e95d2d29940d5b42825c9e') in 0.012538 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 224.840988 seconds.
-  path: Assets/InventoryGridIcons/groundbeeficon.png
-  artifactKey: Guid(dcb358a62c7d3264889d62c1ece8b214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/groundbeeficon.png using Guid(dcb358a62c7d3264889d62c1ece8b214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c37121b8e8fb0bacf444a47aad6013') in 0.013961 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/InventoryGridIcons/groundbeefopenicon.png
-  artifactKey: Guid(80697d138c3d9bd4f81764b1f8009fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/groundbeefopenicon.png using Guid(80697d138c3d9bd4f81764b1f8009fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae14d21eefb9a74e91e5168cc1f51e9') in 0.012633 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.370829 seconds.
-  path: Assets/InventoryGridIcons/groundbeeficon.png
-  artifactKey: Guid(dcb358a62c7d3264889d62c1ece8b214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/groundbeeficon.png using Guid(dcb358a62c7d3264889d62c1ece8b214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f47f38d1e6c947c9212646331200ac') in 0.013396 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 138.599059 seconds.
-  path: Assets/InventoryGridIcons/mashedpotatoicon.png
-  artifactKey: Guid(6a649965462d8c849a406964d1926dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/mashedpotatoicon.png using Guid(6a649965462d8c849a406964d1926dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b17f4f138f47553e3b61f36e157f54') in 0.024602 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/InventoryGridIcons/pastaicon.png
-  artifactKey: Guid(b161abdf40a52aa459e5791b473e1cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/pastaicon.png using Guid(b161abdf40a52aa459e5791b473e1cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e9f16f66d30e87bd1541b181ebf30b6') in 0.024450 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.011527 seconds.
-  path: Assets/InventoryGridIcons/mashedpotatoicon.png
-  artifactKey: Guid(6a649965462d8c849a406964d1926dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/mashedpotatoicon.png using Guid(6a649965462d8c849a406964d1926dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ce891eeec7e6c5807824944a90dcf0') in 0.012843 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/InventoryGridIcons/pastaicon.png
-  artifactKey: Guid(b161abdf40a52aa459e5791b473e1cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/pastaicon.png using Guid(b161abdf40a52aa459e5791b473e1cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17607faf19230788a9c8ae6eaebac723') in 0.013953 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 65.412609 seconds.
-  path: Assets/InventoryGridIcons/swedishmeatballsicon.png
-  artifactKey: Guid(f411917d51f11c34aa97e5e7a26d73d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/swedishmeatballsicon.png using Guid(f411917d51f11c34aa97e5e7a26d73d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b925a8630e88120a333e6ce1d44b10') in 0.017408 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/InventoryGridIcons/swedishmeatballsopenicon.png
-  artifactKey: Guid(4b7b7028ad4e4744fb842b77ee994da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/swedishmeatballsopenicon.png using Guid(4b7b7028ad4e4744fb842b77ee994da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ba51cbac542615cad182249aaeb384') in 0.015978 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.555140 seconds.
-  path: Assets/InventoryGridIcons/swedishmeatballsicon.png
-  artifactKey: Guid(f411917d51f11c34aa97e5e7a26d73d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/swedishmeatballsicon.png using Guid(f411917d51f11c34aa97e5e7a26d73d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45429fa47d4ae34ce59a335616276b5c') in 0.013494 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/InventoryGridIcons/swedishmeatballsopenicon.png
-  artifactKey: Guid(4b7b7028ad4e4744fb842b77ee994da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/swedishmeatballsopenicon.png using Guid(4b7b7028ad4e4744fb842b77ee994da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39c5df0af76448da76063540f3852e6') in 0.013795 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 69.029027 seconds.
-  path: Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset
-  artifactKey: Guid(c4f07f0fa1f52c542994506ced71d13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset using Guid(c4f07f0fa1f52c542994506ced71d13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf434e1ca46753ced4ab0b4c7b64051') in 0.007032 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/AddressableAssetsData/AssetGroups/RetroFoodPack.asset
-  artifactKey: Guid(e6eae17a784933d44bbe408c379b14a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddressableAssetsData/AssetGroups/RetroFoodPack.asset using Guid(e6eae17a784933d44bbe408c379b14a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc46afd0884176421e5d63558f649bb') in 0.003417 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 158.378891 seconds.
-  path: Assets/Textures/Other/randomcan-texture.png
-  artifactKey: Guid(2a397e6cda906124889b537fe7aaaa01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Other/randomcan-texture.png using Guid(2a397e6cda906124889b537fe7aaaa01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eda519228fe4242d58db80400d23f06') in 0.009458 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.892023 seconds.
-  path: Assets/Textures/Inarissa/Bowl/Materials/bowlmashedpotato.mat
-  artifactKey: Guid(29c54bd24bd1969489804e442da88c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Inarissa/Bowl/Materials/bowlmashedpotato.mat using Guid(29c54bd24bd1969489804e442da88c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da481dcc1e4f5aac68e1cb6920d3f577') in 0.027843 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.269576 seconds.
-  path: Assets/Textures/Inarissa/Box/Materials/pastatexture.mat
-  artifactKey: Guid(22b7c59ca7ea6f447b129bf96aecf2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Inarissa/Box/Materials/pastatexture.mat using Guid(22b7c59ca7ea6f447b129bf96aecf2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c40f1a5f5db0f7adbbd8fdad86442e') in 0.008504 seconds 
+  Time since last request: 589264.634736 seconds.
+  path: Assets/Prefabs/GEAR_SausagesOpened.prefab
+  artifactKey: Guid(a94ae83fa18289c47805d13be14bead7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_SausagesOpened.prefab using Guid(a94ae83fa18289c47805d13be14bead7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2173b611d99f0c69ed06eb01be1aeb80') in 0.175593 seconds 

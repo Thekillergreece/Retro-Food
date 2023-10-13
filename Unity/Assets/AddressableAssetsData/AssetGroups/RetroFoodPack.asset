@@ -185,6 +185,118 @@ MonoBehaviour:
     m_Address: ico_GearItem__PremiumPastaCooked
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 4d6b7b378dfdc164aa208a750bfdd622
+    m_Address: GEAR_BabyFoodBanana
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccccf459205b15f4497e51cf9b2ad690
+    m_Address: GEAR_BabyFoodBerries
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b95e9aa0e8d67b40ab67bc645607c70
+    m_Address: GEAR_BabyFoodCarrot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 384e8eb6f9300374c93143451b588243
+    m_Address: GEAR_BabyFoodPeas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98012dd4feb146a44a168838f3a0f9a6
+    m_Address: GEAR_CheeseDoodles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37766e1224023cd4d8a8b5063b40da89
+    m_Address: GEAR_CookiesJam
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48a0539de7745b24cbac3955ec524fff
+    m_Address: GEAR_MixedNuts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed57aaa1902a8fe499409a8bc51aca12
+    m_Address: GEAR_Pineapples
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7fae15113e416e843bb65c824c7b1a4c
+    m_Address: GEAR_PineapplesOpened
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b94fcecc243bc55488304ebeafc9e29b
+    m_Address: GEAR_Sausages
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a94ae83fa18289c47805d13be14bead7
+    m_Address: GEAR_SausagesOpened
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 308d0589515b61643a89f6810f59f26e
+    m_Address: GEAR_SoyMilk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e8affb2d669e6054db16971e3cea360c
+    m_Address: GEAR_TrailMix
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd7ef9a22027fae469ef8f55fe61cc41
+    m_Address: ico_GearItem__MixedNuts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36226bf1be5ba81469b7af542f047734
+    m_Address: ico_GearItem__SausagesOpened
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 634c3ab6c0fa0cb43bc208cf6abd343c
+    m_Address: ico_GearItem__CookiesJam
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b3b651e149964d4e8a9d349c8d67079
+    m_Address: ico_GearItem__BabyFoodBerries
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d71fb25b127c7d4aa8bcc50979c6fb9
+    m_Address: ico_GearItem__PineapplesOpened
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13fdb6b97ba938441b79812495e16ec6
+    m_Address: ico_GearItem__Pineapples
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0dc9fb571a5d5494a99adae032c8d85f
+    m_Address: ico_GearItem__SoyMilk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63ec2193c38b3e441bad406dce19f4f7
+    m_Address: ico_GearItem__BabyFoodBanana
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4728833250689ab4d9d05a41e87daaa3
+    m_Address: ico_GearItem__BabyFoodCarrot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24366863e7a133a47a4c5b9b020add7b
+    m_Address: ico_GearItem__BabyFoodPeas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 214de17a4e72feb4d9b78122a81e4d12
+    m_Address: ico_GearItem__Sausages
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba5ca075b17c7de438b59248da95e6e6
+    m_Address: ico_GearItem__CheeseDoodles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72904d8465c43234aafd3e1c1059806e
+    m_Address: ico_GearItem__TrailMix
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f0bfea33d1c9a7428198df513edd3e3
+    m_Address: GEAR_RandomPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 629ba8dd1d6edc04e92c062b5b1b6c26
+    m_Address: GEAR_RandomBabyFood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bec9307d019431c4bb3e1717831fb12c, type: 2}
   m_SchemaSet:

@@ -20,7 +20,7 @@
                                 "NormalModel" : "",
                                 "InspectModel" : "",
                                 
-                                "ItemNames" : ["GEAR_GroundBeef","GEAR_BakedBeans","GEAR_SwedishMeatballs","GEAR_ChickenMeatballs"],
-                                "ItemWeights" : [3,3,3,3]
+                                "ItemNames" : ["GEAR_GroundBeef","GEAR_BakedBeans","GEAR_SwedishMeatballs","GEAR_ChickenMeatballs","GEAR_Pineapples","GEAR_Sausages"],
+                                "ItemWeights" : [3,3,3,3,3,3]
                             }
 }

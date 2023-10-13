@@ -1,0 +1,78 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_Pineapples",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_PineapplesDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.5,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Random",
+                            "InventoryCategory" : "Food",
+                            "Radial" : "None",
+                            "PickUpAudio" : "Play_TinCanFullPickup",
+                            "PutBackAudio" : "Play_TinCanFullPutDown",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [20, 200, 20],
+                            "InspectOffset" : [-0.01, -0.08, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 15,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 30,
+                            "Type" : "Grub",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 500,
+                            "DaysToDecayIndoors" : 365,
+                            "Calories" : 250,
+                            "Servings" : 1,
+                            "EatingTime" : 4,
+                            "EatingAudio" : "Play_EatingCanned",
+                            "EatingPackagedAudio" : "Play_EatingSoftCanned",
+                            "ThirstEffect" : 25,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 10,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : false,
+                            "Raw" : false,
+                            "Drink" : false,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : true,
+
+                            "Opening" : true,
+                            "OpeningWithCanOpener" : true,
+                            "OpeningWithKnife" : true,
+                            "OpeningWithHatchet" : true,
+                            "OpeningWithSmashing" : true,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 10,
+                            "RestFactor" : 0.75,
+                            "RestFactorMinutes" : 30,
+
+                            "AffectCold" : true,
+                            "InstantColdChange" : 20,
+                            "ColdFactor" : 0.4,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}

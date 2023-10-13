@@ -16,9 +16,11 @@ item=GEAR_DriedRaisins p=2.4733,5.2935,1.2929 r=0.0000,283.2264,0.0000 c=50
 item=GEAR_RandomCannedFood p=2.6523,8.0487,0.9545 r=0.0000,244.1188,0.0000 c=50
 item=GEAR_RandomBox p=2.5856,4.6276,0.4458 r=0.0000,290.6738,0.0000 c=75
 item=GEAR_RandomBox p=2.4102,4.6276,0.5139 r=0.0000,270.2654,0.0000 c=50
+item=GEAR_BabyFoodBanana p=2.3176,4.1268,0.5686 r=-0.0000,174.0752,-0.0000 c=75
+item=GEAR_CookiesJam p=2.3780,4.1665,0.4766 r=-0.0000,121.1352,89.9999 c=75
 
 scene=WhalingShipA
-item=GEAR_DriedRaisins p=-0.6578,5.2502,-9.3176 r=346.0832,96.2209,358.4608 c=50
+item=GEAR_RandomPackage p=-0.6578,5.2502,-9.3176 r=346.0832,96.2209,358.4608 c=50
 item=GEAR_RandomCannedFood p=-4.4156,4.3532,-6.0971 r=76.0038,267.3540,91.0488 c=50
 
 scene=TrailerSShape

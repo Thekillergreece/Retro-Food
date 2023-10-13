@@ -29,43 +29,50 @@ namespace TKG
 
         public override void OnSceneWasInitialized(int level, string name)
         {
-            if (!loadedCookingTex) // adding pot cooking textures
+            if (ModComponent.Public.IsLoaded())
             {
-                cookableGear.Add("GroundBeef"); // case-sensitive
-                cookableGear.Add("GroundBeefOpened");
-                cookableGear.Add("BakedBeans");
-                cookableGear.Add("BakedBeansOpened");
-                cookableGear.Add("CrushedTomatoes");
-                cookableGear.Add("CrushedTomatoesOpened");
-                cookableGear.Add("SwedishMeatballs");
-                cookableGear.Add("SwedishMeatballsOpened");
-                cookableGear.Add("ChickenMeatballs");
-                cookableGear.Add("ChickenMeatballsOpened");
-                cookableGear.Add("PremiumPasta");
-                cookableGear.Add("MashedPotatoes");
-                cookableGear.Add("MacCheese");
-
-                Material potMat;
-                GameObject potGear;
-
-                for (int i = 0; i < cookableGear.Count; i++)
+                if (!loadedCookingTex) // adding pot cooking textures
                 {
-                    potGear = GearItem.LoadGearItemPrefab("GEAR_" + cookableGear[i]).gameObject;
+                    cookableGear.Add("GroundBeef"); // case-sensitive
+                    cookableGear.Add("GroundBeefOpened");
+                    cookableGear.Add("BakedBeans");
+                    cookableGear.Add("BakedBeansOpened");
+                    cookableGear.Add("CrushedTomatoes");
+                    cookableGear.Add("CrushedTomatoesOpened");
+                    cookableGear.Add("SwedishMeatballs");
+                    cookableGear.Add("SwedishMeatballsOpened");
+                    cookableGear.Add("ChickenMeatballs");
+                    cookableGear.Add("ChickenMeatballsOpened");
+                    cookableGear.Add("PremiumPasta");
+                    cookableGear.Add("MashedPotatoes");
+                    cookableGear.Add("MacCheese");
+                    cookableGear.Add("Sausages");
+                    cookableGear.Add("SausagesOpened");
+                    cookableGear.Add("Pineapples");
+                    cookableGear.Add("PineapplesOpened");
 
-                    if (potGear == null) continue;
+                    Material potMat;
+                    GameObject potGear;
 
-                    Texture tex = potGear.transform.GetChild(0).GetComponent<MeshRenderer>().material.mainTexture;
+                    for (int i = 0; i < cookableGear.Count; i++)
+                    {
+                        potGear = GearItem.LoadGearItemPrefab("GEAR_" + cookableGear[i]).gameObject;
 
-                    potMat = InstantiateLiquidMaterial();
-                    potMat.name = ("CKN_" + cookableGear[i] + "_MAT");
+                        if (potGear == null) continue;
 
-                    potMat.mainTexture = tex;
-                    potMat.SetTexture("_Main_texture2", tex);
+                        Texture tex = potGear.transform.GetChild(0).GetComponent<MeshRenderer>().material.mainTexture;
 
-                    potGear.GetComponent<Cookable>().m_CookingPotMaterialsList = new Material[1] { potMat };
+                        potMat = InstantiateLiquidMaterial();
+                        potMat.name = ("CKN_" + cookableGear[i] + "_MAT");
+
+                        potMat.mainTexture = tex;
+                        potMat.SetTexture("_Main_texture2", tex);
+
+                        potGear.GetComponent<Cookable>().m_CookingPotMaterialsList = new Material[1] { potMat };
+                    }
+
+                    loadedCookingTex = true;
                 }
-
-                loadedCookingTex = true;
             }
         }
     }

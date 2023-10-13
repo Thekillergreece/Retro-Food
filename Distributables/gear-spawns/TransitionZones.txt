@@ -1,7 +1,7 @@
 # Pleasant Valley to Blackrock
 scene=CanyonRoadTransitionZone
 item=GEAR_OrangeBiscuits p=470.6845,58.9553,735.4763 r=0.1325,312.6902,0.4621 c=25
-item=GEAR_DriedRaisins p=310.6026,72.2379,382.2675 r=1.8353,33.1105,358.7359 c=25
+item=GEAR_RandomPackage p=310.6026,72.2379,382.2675 r=1.8353,33.1105,358.7359 c=25
 item=GEAR_AppleSnacks p=337.8116,72.7293,389.1736 r=0.4624,332.8257,2.0671 c=25
 item=GEAR_CrushedTomatoes p=392.6194,72.3565,435.0752 r=36.5007,221.6077,324.8500 c=25
 item=GEAR_RandomCannedFood p=233.6515,40.7182,421.3228 r=0.0000,206.7318,0.0000 c=40

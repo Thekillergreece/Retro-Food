@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Rkjti/K9hC6xCD0Shy4tQmkr76e8dtMURf96n4eXubm2uHuh7jdwE+20TzkPuRm0tTOslIKkivH9B2KSXkIKbA==",
+  "dgSpecHash": "h8Bf+1c6nHSNrSBn0u1L609X0mvL6cQXAc8Y3N6c3SR5WT/A7qy6iVa+FE6+03QNNBULxxb3TDqoyBs7TP0gjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Desktop\\My mods\\Retro Food\\VisualStudio\\RetroFood.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,12 @@
     "C:\\Users\\PC\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\stblade.modding.tld.il2cppassemblies.windows\\2.17.0\\stblade.modding.tld.il2cppassemblies.windows.2.17.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stblade.modding.tld.craftingrevisions\\2.2.0\\stblade.modding.tld.craftingrevisions.2.2.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stblade.modding.tld.gearspawner\\2.3.1\\stblade.modding.tld.gearspawner.2.3.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stblade.modding.tld.il2cppassemblies.windows\\2.23.0\\stblade.modding.tld.il2cppassemblies.windows.2.23.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stblade.modding.tld.localizationutilities\\2.0.0\\stblade.modding.tld.localizationutilities.2.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stblade.modding.tld.modcomponent\\6.2.1\\stblade.modding.tld.modcomponent.6.2.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stblade.modding.tld.modsettings\\1.9.0\\stblade.modding.tld.modsettings.1.9.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

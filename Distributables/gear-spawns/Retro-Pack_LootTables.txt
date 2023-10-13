@@ -2,6 +2,8 @@
 loottable=BackPack
 #-----------------
 item=DriedRaisins w=1
+item=MixedNuts w=1
+item=TrailMix w=1
 
 #----------------------
 loottable=FishingDrawer
@@ -12,17 +14,30 @@ item=ChickenMeatballs w=3
 #----------------------
 loottable=KitchenDrawer
 #----------------------
-item=OrangeBiscuits w=6
+item=OrangeBiscuits w=3
+item=CookiesJam w=3
 item=DriedRaisins w=4
+item=MixedNuts w=4
+item=TrailMix w=4
+item=CookiesJam w=2
 
 #----------------
 loottable=Freezer
 #----------------
 item=AppleSauceJar w=2
+item=BabyFoodBanana w=1
+item=BabyFoodBerries w=1
+item=BabyFoodCarrot w=1
+item=BabyFoodPeas w=1
 
 #---------------
 loottable=Fridge
 #---------------
+item=SoyMilk w=10
+item=BabyFoodBanana w=7
+item=BabyFoodBerries w=7
+item=BabyFoodCarrot w=7
+item=BabyFoodPeas w=7
 item=AppleSauceJar w=3
 
 #---------------
@@ -39,6 +54,10 @@ item=GroundBeef w=1
 item=BakedBeans w=1
 item=SwedishMeatballs w=1
 item=ChickenMeatballs w=1
+item=Pineapples w=1
+item=Sausages w=1
+item=MixedNuts w=1
+item=TrailMix w=1
 
 #------------------------
 loottable=KitchenCupboard
@@ -47,6 +66,7 @@ item=AppleSnacks w=5
 item=PremiumPasta w=5
 item=MashedPotatoes w=5
 item=MacCheese w=5
+item=CookiesJam w=5
 
 #---------------
 loottable=Locker
@@ -56,6 +76,7 @@ item=BakedBeans w=1
 item=SwedishMeatballs w=1
 item=ChickenMeatballs w=1
 item=AppleSnacks w=1
+item=CookiesJam w=1
 
 #---------------
 loottable=LockerLocked
@@ -71,6 +92,7 @@ item=AppleSauceJar w=1
 loottable=Wardrobe_regular
 #-------------------------
 item=AppleSnacks w=2
+item=CookiesJam w=1
 
 #-------------------------
 loottable=VehicleTrunk
@@ -93,6 +115,9 @@ loottable=VehicleGloveBox
 #-------------------------
 item=OrangeBiscuits w=3
 item=DriedRaisins w=3
+item=MixedNuts w=3
+item=TrailMix w=3
+item=cookiesJam w=3
 
 #-------------------------
 loottable=CargoFoodA
@@ -100,6 +125,8 @@ loottable=CargoFoodA
 item=OrangeBiscuits w=1
 item=DriedRaisins w=1
 item=AppleSnacks w=1
+item=MixedNuts w=1
+item=TrailMix w=1
 
 #-------------------------
 loottable=CargoFoodB
@@ -108,11 +135,17 @@ item=GroundBeef w=3
 item=BakedBeans w=3
 item=SwedishMeatballs w=3
 item=ChickenMeatballs w=3
+item=Pineapples w=3
+item=Sausages w=3
 
 #-------------------------
 loottable=CargoFoodC
 #-------------------------
 item=AppleSauceJar w=1
+item=BabyFoodBanana w=1
+item=BabyFoodBerries w=1
+item=BabyFoodCarrot w=1
+item=BabyFoodPeas w=1
 
 #-------------------------
 loottable=CargoFoodRareA
@@ -133,3 +166,20 @@ loottable=Suitcase
 #-----------------
 item=OrangeBiscuits w=3
 item=DriedRaisins w=3
+item=MixedNuts w=3
+item=TrailMix w=3
+
+#--------------------
+loottable=CargoDrinkA
+#--------------------
+item=SoyMilk w=5
+
+#--------------------
+loottable=CargoDrinkB
+#--------------------
+item=SoyMilk w=5
+
+#--------------------
+loottable=CargoDrinkC
+#--------------------
+item=SoyMilk w=5

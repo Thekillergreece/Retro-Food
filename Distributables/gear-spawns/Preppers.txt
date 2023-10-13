@@ -16,7 +16,7 @@ item=GEAR_RandomCannedFood p=1.4012,0.5387,1.7357 r=-0.0000,167.8131,-0.0000 c=7
 item=GEAR_OrangeBiscuits p=2.8236,0.5395,1.8017 r=0.0000,321.9727,0.0000 c=75
 
 scene=PrepperCacheD
-item=GEAR_DriedRaisins p=-3.5136,1.1150,1.6305 r=0.0000,320.1578,0.0000 c=100
+item=GEAR_RandomPackage p=-3.5136,1.1150,1.6305 r=0.0000,320.1578,0.0000 c=100
 item=GEAR_RandomBox p=-1.2827,1.5985,-1.8639 r=-0.0000,17.5143,-0.0000 c=75
 item=GEAR_OrangeBiscuits p=1.3328,1.0540,-5.0558 r=-0.0000,96.4278,-0.0000 c=75
 
