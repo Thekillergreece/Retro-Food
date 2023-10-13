@@ -1,210 +1,262 @@
 {
     "GAMEPLAY_BakedBeans": {
         "English": "Can of Baked Beans",
-		"Russian": "Запечённые бобы",
+        "Russian": "Запечённые бобы",
+        "Turkish": "Kuru Fasulye Konservesi"
     },
     "GAMEPLAY_BakedBeansDescription": {
         "English": "Can of Baked Beans. Nothing special. Good for beans on toast, if you´re into that.",
-		"Russian": "Банка запечённых бобов. Ничего особенного. Хорошо подходит для тостов с фасолью, если вам это нравится.",
+        "Russian": "Банка запечённых бобов. Ничего особенного. Хорошо подходит для тостов с фасолью, если вам это нравится.",
+        "Turkish": "Bir kutu kuru fasulye. Özel bir şey değil. Eğer seviyorsanız, yedikten sonra yanınızda kimse olmamasına gayret gösterin."
     },
-	"GAMEPLAY_GroundBeef": {
+    "GAMEPLAY_GroundBeef": {
         "English": "Can of Ground Beef",
-		"Russian": "Говяжий фарш",
+        "Russian": "Говяжий фарш",
+        "Turkish": "Kıyma Konservesi"
     },
     "GAMEPLAY_GroundBeefDescription": {
         "English": "What do you call a cow with no legs? Ground beef!",
-		"Russian": "Как называется коровка без ножек? Говяжий фарш!",
+        "Russian": "Как называется коровка без ножек? Говяжий фарш!",
+        "Turkish": "Bacakları olmayan bir ineğe ne denir? Kıyma!"
     },
-	"GAMEPLAY_CrushedTomatoes": {
+    "GAMEPLAY_CrushedTomatoes": {
         "English": "Can of Crushed Tomatoes",
-		"Russian": "Дроблёные томаты",
+        "Russian": "Дроблёные томаты",
+        "Turkish": "Ezilmiş Domates Konservesi"
     },
     "GAMEPLAY_CrushedTomatoesDescription": {
         "English": "Boring. Needs spices and some protein.",
-		"Russian": "Скучно. Нужны приправы и немного белка.",
+        "Russian": "Скучно. Нужны приправы и немного белка.",
+        "Turkish": "Sıkıcı. Baharat ve biraz protein gerekiyor."
     },
-	"GAMEPLAY_SwedishMeatballs": {
+    "GAMEPLAY_SwedishMeatballs": {
         "English": "Can of Swedish Meatballs",
-		"Russian": "Шведские фрикадельки",
+        "Russian": "Шведские фрикадельки",
+        "Turkish": "Bir Kutu İsveç Köftesi"
     },
     "GAMEPLAY_SwedishMeatballsDescription": {
         "English": "Traditional Swedish Meatballs!",
-		"Russian": "Классическе Шведские фрикадельки!",
+        "Russian": "Классическе Шведские фрикадельки!",
+        "Turkish": "Geleneksel İsveç Köftesi!"
     },
-	"GAMEPLAY_ChickenMeatballs": {
+    "GAMEPLAY_ChickenMeatballs": {
         "English": "Can of Chicken Meatballs",
-		"Russian": "Куриные фрикадельки",
+        "Russian": "Куриные фрикадельки",
+        "Turkish": "Bir Kutu Tavuk Köftesi"
     },
     "GAMEPLAY_ChickenMeatballsDescription": {
         "English": "The less-traditional version of Swedish meatballs.",
-		"Russian": "Менее классические Шведские фрикадельки.",
+        "Russian": "Менее классические Шведские фрикадельки.",
+        "Turkish": "İsveç köftesinin daha az geleneksel versiyonu."
     },
-	"GAMEPLAY_AppleSnacks": {
+    "GAMEPLAY_AppleSnacks": {
         "English": "Box of Apple Snacks",
-		"Russian": "Яблочное лакомство"
+        "Russian": "Яблочное лакомство",
+        "Turkish": "Elmalı Atıştırmalık Kutusu"
     },
     "GAMEPLAY_AppleSnacksDescription": {
         "English": "Dried, sweet pieces of apple. Yum!",
-		"Russian": "Сушеные сладкие дольки яблок. Ням!",
+        "Russian": "Сушеные сладкие дольки яблок. Ням!",
+        "Turkish": "Kurutulmuş, tatlı elma parçaları. Nefis!"
     },
-	"GAMEPLAY_MacCheese": {
+    "GAMEPLAY_MacCheese": {
         "English": "Box of Mac & Cheese",
-		"Russian": "Макароны с сыром",
+        "Russian": "Макароны с сыром",
+        "Turkish": "Bir Kutu Mac & Cheese"
     },
     "GAMEPLAY_MacCheeseDescription": {
         "English": "One of the best combinations, maybe ever.",
-		"Russian": "Пожалуй, одна из лучших комбинаций ингредиентов, созданная когда-либо.",
+        "Russian": "Пожалуй, одна из лучших комбинаций ингредиентов, созданная когда-либо.",
+        "Turkish": "Belki de gelmiş geçmiş en iyi kombinasyonlardan biri."
     },
-	"GAMEPLAY_MacCheeseCooked": {
+    "GAMEPLAY_MacCheeseCooked": {
         "English": "Bowl of Mac & Cheese",
-		"Russian": "Порция макарон с сыром",
+        "Russian": "Порция макарон с сыром",
+        "Turkish": "Bir Kase Mac & Cheese"
     },
     "GAMEPLAY_MacCheeseCookedDescription": {
         "English": "Full of creamy, cheese-y goodness.",
-		"Russian": "Полная тарелка сливочно-сырного совершенства.",
+        "Russian": "Полная тарелка сливочно-сырного совершенства.",
+        "Turkish": "Kremalı, peynirli iyilik dolu."
     },
-	"GAMEPLAY_PremiumPasta": {
+    "GAMEPLAY_PremiumPasta": {
         "English": "Box of Pasta",
-		"Russian": "Макароны",
+        "Russian": "Макароны",
+        "Turkish": "Bir Kutu Makarna"
     },
     "GAMEPLAY_PremiumPastaDescription": {
         "English": "Dried pasta, a good household staple.",
-		"Russian": "Обычные макароны, хороший продукт в любом доме.",
+        "Russian": "Обычные макароны, хороший продукт в любом доме.",
+        "Turkish": "Kurutulmuş makarna, iyi bir ev gıdasıdır."
     },
-	"GAMEPLAY_PremiumPastaCooked": {
+    "GAMEPLAY_PremiumPastaCooked": {
         "English": "Bowl of Pasta",
-		"Russian": "Порция макарон",
+        "Russian": "Порция макарон",
+        "Turkish": "Bir Kase Makarna"
     },
     "GAMEPLAY_PremiumPastaCookedDescription": {
         "English": "Boring. Bland. Needs some type of sauce.",
-		"Russian": "Скучно. Пресно. Нужен хоть какой ни будь соус.",
+        "Russian": "Скучно. Пресно. Нужен хоть какой ни будь соус.",
+        "Turkish": "Sıkıcı. Tatsız. Bir çeşit sosa ihtiyaç var."
     },
-	"GAMEPLAY_DriedRaisins": {
+    "GAMEPLAY_DriedRaisins": {
         "English": "Raisins",
-		"Russian": "Изюм",
+        "Russian": "Изюм",
+        "Turkish": "Kuru Üzüm"
     },
     "GAMEPLAY_DriedRaisinsDescription": {
         "English": "Small and sweet.",
-		"Russian": "Маленький и сладкий.",
+        "Russian": "Маленький и сладкий.",
+        "Turkish": "Küçük ve tatlı."
     },
-	"GAMEPLAY_MashedPotatoes": {
+    "GAMEPLAY_MashedPotatoes": {
         "English": "Mashed Potatoes",
-		"Russian": "Картофельное пюре",
+        "Russian": "Картофельное пюре",
+        "Turkish": "Patates Püresi"
     },
     "GAMEPLAY_MashedPotatoesDescription": {
         "English": "Powdered Mashed Potatoes, add water to make it edible.",
-		"Russian": "Пюре быстрого приготовления, залейте кипятком что бы приготовить.",
+        "Russian": "Пюре быстрого приготовления, залейте кипятком что бы приготовить.",
+        "Turkish": "Toz Patates Püresi, yenilebilir hale getirmek için su ekleyin."
     },
-	"GAMEPLAY_MashedPotatoesCooked": {
+    "GAMEPLAY_MashedPotatoesCooked": {
         "English": "Bowl of Mashed Potatoes",
-		"Russian": "Порция картофельного пюре",
+        "Russian": "Порция картофельного пюре",
+        "Turkish": "Bir Kase Patates Püresi"
     },
     "GAMEPLAY_MashedPotatoesCookedDescription": {
         "English": "Soft, creamy and delicious. Eat it while it´s hot!",
-		"Russian": "Мягкое, нежное и вкусное. Ешьте пока горячее!",
+        "Russian": "Мягкое, нежное и вкусное. Ешьте пока горячее!",
+        "Turkish": "Yumuşak, kremsi ve lezzetli. Sıcak yiyin!"
     },
-	"GAMEPLAY_AppleSauceJar": {
+    "GAMEPLAY_AppleSauceJar": {
         "English": "Apple Sauce",
-		"Russian": "Яблочное пюре",
+        "Russian": "Яблочное пюре",
+        "Turkish": "Elma Sosu"
     },
     "GAMEPLAY_AppleSauceJarDescription": {
         "English": "Basically just apples and sugar, but oh-so-good.",
-		"Russian": "Просто яблоки и сахар, но очень вкусно.",
+        "Russian": "Просто яблоки и сахар, но очень вкусно.",
+        "Turkish": "Temelde sadece elma ve şeker, ama çok iyi."
     },
-	"GAMEPLAY_OrangeBiscuits": {
+    "GAMEPLAY_OrangeBiscuits": {
         "English": "Orange Biscuits",
-		"Russian": "Апельсиновое печенье",
+        "Russian": "Апельсиновое печенье",
+        "Turkish": "Portakallı Bisküvi"
     },
     "GAMEPLAY_OrangeBiscuitsDescription": {
         "English": "Simple Biscuits with a faint orange flavour.",
-		"Russian": "Простые печеньки с лёгким апельсиновым ароматом.",
+        "Russian": "Простые печеньки с лёгким апельсиновым ароматом.",
+        "Turkish": "Hafif portakal aromalı sade bisküviler."
     },
     "GAMEPLAY_Sausages": {
-        "English": "Can of Sausages",,
-		"Russian": "Консервированные сосиски",
+        "English": "Can of Sausages",
+        "Russian": "Консервированные сосиски",
+        "Turkish": "Bir Kutu Sosis"
     },
     "GAMEPLAY_SausagesDescription": {
         "English": "Cold sausages in a can. You should probably heat these up.",
-		"Russian": "Холодные сосиски. Вероято, вам стоит их разогреть.",
+        "Russian": "Холодные сосиски. Вероято, вам стоит их разогреть.",
+        "Turkish": "Soğuk sosisler. Muhtemelen bunları ısıtmalısın."
     },
-	"GAMEPLAY_Pineapples": {
+    "GAMEPLAY_Pineapples": {
         "English": "Can of Sliced Pineapple",
-		"Russian": "Ананасовые кольца",
+        "Russian": "Ананасовые кольца",
+        "Turkish": "Dilimlenmiş Ananas Konservesi"
     },
     "GAMEPLAY_PineapplesDescription": {
         "English": "Sweet slices of pineapple. Perfect on pizza!",
-		"Russian": "Сладкие колечки ананаса. Идеально на пиццу!",
+        "Russian": "Сладкие колечки ананаса. Идеально на пиццу!",
+        "Turkish": "Tatlı ananas dilimleri. Pizza üzerinde mükemmel!"
     },
-	"GAMEPLAY_CheeseDoodles": {
+    "GAMEPLAY_CheeseDoodles": {
         "English": "Bag of Cheese Doodles",
-		"Russian": "Пакет сырных чипсов",
+        "Russian": "Пакет сырных чипсов",
+        "Turkish": "Bir Paket Peynirli Cips"
     },
     "GAMEPLAY_CheeseDoodlesDescription": {
         "English": "Cheesy goodness. Will coat your fingers in orange cheese-dust.",
-		"Russian": "Сырное блаженство. Оранжевая сырная крошка покроет ваши пальцы.",
+        "Russian": "Сырное блаженство. Оранжевая сырная крошка покроет ваши пальцы.",
+        "Turkish": "Peynir iyidir. Parmaklarınız turuncu peynir tozuna bulanacak."
     },
-	"GAMEPLAY_BabyFoodBanana": {
+    "GAMEPLAY_BabyFoodBanana": {
         "English": "Jar of babyfood",
-		"Russian": "Детское питание",
+        "Russian": "Детское питание",
+        "Turkish": "Bir kavanoz bebek maması"
     },
     "GAMEPLAY_BabyFoodBananaDescription": {
         "English": "Pretty much just mashed bananas. Sweet and tasty.",
-		"Russian": "Приличное количество бананового пюре. Вкусно и сладко.",
+        "Russian": "Приличное количество бананового пюре. Вкусно и сладко.",
+        "Turkish": "Muz püresi gibi bir şey. Tatlı ve lezzetli."
     },
-	"GAMEPLAY_BabyFoodCarrot": {
+    "GAMEPLAY_BabyFoodCarrot": {
         "English": "Jar of babyfood",
-		"Russian": "Детское питание",
+        "Russian": "Детское питание",
+        "Turkish": "Bir kavanoz bebek maması"
     },
     "GAMEPLAY_BabyFoodCarrotDescription": {
         "English": "The sadder version of babyfood, just vegetables. Healthy, but thats about it.",
-		"Russian": "Печальная сторона детского питания. Полезная и только.",
+        "Russian": "Печальная сторона детского питания. Полезная и только.",
+        "Turkish": "Bebek mamasının daha lezzetsiz versiyonu, sadece sebze. Sağlıklı, hepsi bu."
     },
-	"GAMEPLAY_BabyFoodBerries": {
+    "GAMEPLAY_BabyFoodBerries": {
         "English": "Jar of babyfood",
-		"Russian": "Детское питание",
+        "Russian": "Детское питание",
+        "Turkish": "Bir kavanoz bebek maması"
     },
     "GAMEPLAY_BabyFoodBerriesDescription": {
         "English": "Mashed berries, a nice dessert in a pinch.",
-		"Russian": "Ягодное пюре, приятный десерт в случае нужды.",
+        "Russian": "Ягодное пюре, приятный десерт в случае нужды.",
+        "Turkish": "Çilek püresi. Sıkıştığında güzel bir tatlı."
     },
-	"GAMEPLAY_BabyFoodPeas": {
+    "GAMEPLAY_BabyFoodPeas": {
         "English": "Jar of babyfood",
-		"Russian": "Детское питание",
+        "Russian": "Детское питание",
+        "Turkish": "Bir kavanoz bebek maması"
     },
     "GAMEPLAY_BabyFoodPeasDescription": {
         "English": "Mushy peas. Not the nicest texture, but pairs surprisingly well with some fish.",
-		"Russian": "Гороховое пюре. Не самая приятная текстура, но неожиданно хорошо сочетается с рыбой.",
+        "Russian": "Гороховое пюре. Не самая приятная текстура, но неожиданно хорошо сочетается с рыбой.",
+        "Turkish": "Lapa bezelye. Pek hoş bir doku değildir, ancak bazı balıklarla şaşırtıcı derecede iyi uyum sağlar."
     },
-	"GAMEPLAY_SoyMilk": {
+    "GAMEPLAY_SoyMilk": {
         "English": "Soy Milk",
-		"Russian": "Соевое молоко",
+        "Russian": "Соевое молоко",
+        "Turkish": "Soya Sütü"
     },
     "GAMEPLAY_SoyMilkDescription": {
         "English": "Works pretty much the same as milk, but is storeable for much longer.",
-		"Russian": "Почти как обычное молоко, но хранится гораздо дольше.",
+        "Russian": "Почти как обычное молоко, но хранится гораздо дольше.",
+        "Turkish": "Sütle hemen hemen aynı işlevi görür, ancak çok daha uzun süre saklanabilir."
     },
-	"GAMEPLAY_CookiesJam": {
+    "GAMEPLAY_CookiesJam": {
         "English": "Jam Drop Cookies",
-		"Russian": "Печенье с джемом",
+        "Russian": "Печенье с джемом",
+        "Turkish": "Reçelli Damla Kurabiye"
     },
     "GAMEPLAY_CookiesJamDescription": {
         "English": "A swedish traditional cookie. Often made with raspberry jam.",
-		"Russian": "Традиционное Шведское печенье. Обычно оно с малиновым джемом.",
+        "Russian": "Традиционное Шведское печенье. Обычно оно с малиновым джемом.",
+        "Turkish": "Geleneksel bir İsveç kurabiyesi. Genellikle ahududu reçeli ile yapılır."
     },
-	"GAMEPLAY_MixedNuts": {
+    "GAMEPLAY_MixedNuts": {
         "English": "Bag of mixed nuts",
-		"Russian": "Ореховая смесь",
+        "Russian": "Ореховая смесь",
+        "Turkish": "Bir torba karışık fındık"
     },
     "GAMEPLAY_MixedNutsDescription": {
         "English": "A good source of energy!",
-		"Russian": "Хороший источник энергии!",
+        "Russian": "Хороший источник энергии!",
+        "Turkish": "İyi bir enerji kaynağı!"
     },
-	"GAMEPLAY_TrailMix": {
+    "GAMEPLAY_TrailMix": {
         "English": "Bag of trail mix",
-		"Russian": "Походная смесь",
+        "Russian": "Походная смесь",
+        "Turkish": "Bir paket patlıcan karışımı"
     },
     "GAMEPLAY_TrailMixDescription": {
         "English": "Perfect for hikes. A good energy boost!",
-		"Russian": "Идеально для походов. Хороший источник энергии!",
-	}
+        "Russian": "Идеально для походов. Хороший источник энергии!",
+        "Turkish": "Yürüyüşler için mükemmel. İyi bir enerji takviyesi!"
+    }
 }
