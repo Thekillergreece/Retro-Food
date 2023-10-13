@@ -5,14 +5,16 @@
 
 ### Introduction
 ---
-Introduces 12 new food items to the game.
+Introduces 23 new food items to the game.
 
-Of 12 new food items, 3 of those are used for cooking only.
+Of 23 new food items, 3 of those are used for cooking only.
 
 Retro food items will be found almost exclusively in residential areas and big buildings such as Gray's Mother. It's rarely found anywhere outside of those areas and you may not find any of those in isolated areas such as Hushed River Valley.
 It's planned to add ingredients and cooking recipes.
 
 If you are considering to download and install this Retro Food pack, I strongly recommend you download and install other food pack mods such as Waltz's and TKG's Food pack for variety. Expect lots of food items to find!
+
+![newitems](https://github.com/Thekillergreece/Retro-Food/assets/95387832/02d31a0b-e21c-4d49-93f0-bc82cb7ecca7)
 
 ### Dependencies
 ---
