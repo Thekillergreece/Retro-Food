@@ -16,3 +16,6 @@ scene=HubRegion
 item=GEAR_OrangeBiscuits p=128.8334,252.0288,405.1788 r=0.0000,226.1875,0.0000 c=75
 item=GEAR_AppleSnacks p=130.1336,251.5785,405.3674 r=-0.0000,68.6521,-0.0000 c=50
 
+# Hub Cave ZC to FA
+scene=HubCave
+item=GEAR_RandomCannedFood p=-3.2746,-6.4420,118.0369 r=2.9840,193.0879,355.3726 c=35
