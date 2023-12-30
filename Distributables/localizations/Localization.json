@@ -2,114 +2,142 @@
     "GAMEPLAY_BakedBeans": {
         "English": "Can of Baked Beans",
 		"Russian": "Запечённые бобы",
+	    	"Italian": "Lattina di Fagioli al Forno",
     },
     "GAMEPLAY_BakedBeansDescription": {
         "English": "Can of Baked Beans. Nothing special. Good for beans on toast, if you´re into that.",
 		"Russian": "Банка запечённых бобов. Ничего особенного. Хорошо подходит для тостов с фасолью, если вам это нравится.",
+	    	"Italian": "Una lattina di Fagioli al Forno. Niente di speciale. Buono per una fetta di pane tostato con i fagioli, se ti piace.",
     },
 	"GAMEPLAY_GroundBeef": {
         "English": "Can of Ground Beef",
 		"Russian": "Говяжий фарш",
+		"Italian": "Lattina di Carne di Manzo Macinata",
     },
     "GAMEPLAY_GroundBeefDescription": {
         "English": "What do you call a cow with no legs? Ground beef!",
 		"Russian": "Как называется коровка без ножек? Говяжий фарш!",
+	    	"Italian": "Come chiami una mucca senza le gambe? Carne di Manzo Macinata!",
     },
 	"GAMEPLAY_CrushedTomatoes": {
         "English": "Can of Crushed Tomatoes",
 		"Russian": "Дроблёные томаты",
+		"Italian": "Lattina di Pomodori Schiacciati",
     },
     "GAMEPLAY_CrushedTomatoesDescription": {
         "English": "Boring. Needs spices and some protein.",
 		"Russian": "Скучно. Нужны приправы и немного белка.",
+	    	"Italian": "Noioso. Servono specie e qualche proteina.",
     },
 	"GAMEPLAY_SwedishMeatballs": {
         "English": "Can of Swedish Meatballs",
 		"Russian": "Шведские фрикадельки",
+		"Italian": "Lattina di Polpette Svedesi",
     },
     "GAMEPLAY_SwedishMeatballsDescription": {
         "English": "Traditional Swedish Meatballs!",
 		"Russian": "Классическе Шведские фрикадельки!",
+	    	"Italian": "Polpette Svedesi Tradizionali!",
     },
 	"GAMEPLAY_ChickenMeatballs": {
         "English": "Can of Chicken Meatballs",
 		"Russian": "Куриные фрикадельки",
+		"Italian": Lattina di Polpette di Pollo",
     },
     "GAMEPLAY_ChickenMeatballsDescription": {
         "English": "The less-traditional version of Swedish meatballs.",
 		"Russian": "Менее классические Шведские фрикадельки.",
+	    	"Italian": "La versione meno tradizionale delle polpette svedesi.",
     },
 	"GAMEPLAY_AppleSnacks": {
         "English": "Box of Apple Snacks",
 		"Russian": "Яблочное лакомство"
+		"Italian": "Scatola di Spuntini alla Mela",
     },
     "GAMEPLAY_AppleSnacksDescription": {
         "English": "Dried, sweet pieces of apple. Yum!",
 		"Russian": "Сушеные сладкие дольки яблок. Ням!",
+	    	"Italian": "Secche, dolci pezzi di mele. Gnam!",
     },
 	"GAMEPLAY_MacCheese": {
         "English": "Box of Mac & Cheese",
 		"Russian": "Макароны с сыром",
+		"Italian": "Scatola di Mac & Formaggio",
     },
     "GAMEPLAY_MacCheeseDescription": {
         "English": "One of the best combinations, maybe ever.",
 		"Russian": "Пожалуй, одна из лучших комбинаций ингредиентов, созданная когда-либо.",
+	    	"Italian": "Una delle migliori combinazioni, forse la migliore.",
     },
 	"GAMEPLAY_MacCheeseCooked": {
         "English": "Bowl of Mac & Cheese",
 		"Russian": "Порция макарон с сыром",
+		"Italian": "Ciotola di Mac & Formaggio",
     },
     "GAMEPLAY_MacCheeseCookedDescription": {
         "English": "Full of creamy, cheese-y goodness.",
 		"Russian": "Полная тарелка сливочно-сырного совершенства.",
+	    	"Italian": "Piena di bontà cremosa e formaggiosa.",
     },
 	"GAMEPLAY_PremiumPasta": {
         "English": "Box of Pasta",
 		"Russian": "Макароны",
+		"Italian": "Scatola di Pasta",
     },
     "GAMEPLAY_PremiumPastaDescription": {
         "English": "Dried pasta, a good household staple.",
 		"Russian": "Обычные макароны, хороший продукт в любом доме.",
+	    	"Italian": "Pasta secca, Un buon alimento domestico.",
     },
 	"GAMEPLAY_PremiumPastaCooked": {
         "English": "Bowl of Pasta",
 		"Russian": "Порция макарон",
+		"Italian": "Ciotola di Pasta",
     },
     "GAMEPLAY_PremiumPastaCookedDescription": {
         "English": "Boring. Bland. Needs some type of sauce.",
 		"Russian": "Скучно. Пресно. Нужен хоть какой ни будь соус.",
+	    	"Italian": "Noioso. Privo di sapore. Serve qualche tipo di salsa.",
     },
 	"GAMEPLAY_DriedRaisins": {
         "English": "Raisins",
 		"Russian": "Изюм",
+		"Italian": "Uva Secca",
     },
     "GAMEPLAY_DriedRaisinsDescription": {
         "English": "Small and sweet.",
 		"Russian": "Маленький и сладкий.",
+	    	"Italian": "Piccole e dolci.",
     },
 	"GAMEPLAY_MashedPotatoes": {
         "English": "Mashed Potatoes",
 		"Russian": "Картофельное пюре",
+		"Italian": "Purè di Patate",
     },
     "GAMEPLAY_MashedPotatoesDescription": {
         "English": "Powdered Mashed Potatoes, add water to make it edible.",
 		"Russian": "Пюре быстрого приготовления, залейте кипятком что бы приготовить.",
+	    	"Italian": "Purè di Patate in polvere, aggiungi dell'acqua per renderle commestibili.",
     },
 	"GAMEPLAY_MashedPotatoesCooked": {
         "English": "Bowl of Mashed Potatoes",
 		"Russian": "Порция картофельного пюре",
+		"Italian": "Ciotola di Purè di Patate",
     },
     "GAMEPLAY_MashedPotatoesCookedDescription": {
         "English": "Soft, creamy and delicious. Eat it while it´s hot!",
 		"Russian": "Мягкое, нежное и вкусное. Ешьте пока горячее!",
+	    	"Italian": "Morbido, cremoso e delizioso. Mangialo mentre è caldo!",
     },
 	"GAMEPLAY_AppleSauceJar": {
         "English": "Apple Sauce",
 		"Russian": "Яблочное пюре",
+		"Italian": "Salsa di Mele",
     },
     "GAMEPLAY_AppleSauceJarDescription": {
         "English": "Basically just apples and sugar, but oh-so-good.",
 		"Russian": "Просто яблоки и сахар, но очень вкусно.",
+	    	"Italian": "Fondamentalmente solo mele e zucchero, ma molto buono.",
     },
 	"GAMEPLAY_OrangeBiscuits": {
         "English": "Orange Biscuits",
@@ -122,89 +150,111 @@
     "GAMEPLAY_Sausages": {
         "English": "Can of Sausages",,
 		"Russian": "Консервированные сосиски",
+	    	"Italian": "Lattina di Salsicce",
     },
     "GAMEPLAY_SausagesDescription": {
         "English": "Cold sausages in a can. You should probably heat these up.",
 		"Russian": "Холодные сосиски. Вероято, вам стоит их разогреть.",
+	    	"Italian": "Fredde salsicce in una lattina. Probabilmente dovresti riscaldarle.",
     },
 	"GAMEPLAY_Pineapples": {
         "English": "Can of Sliced Pineapple",
 		"Russian": "Ананасовые кольца",
+		"Italian": "Lattina di Ananas Affettato",
     },
     "GAMEPLAY_PineapplesDescription": {
         "English": "Sweet slices of pineapple. Perfect on pizza!",
 		"Russian": "Сладкие колечки ананаса. Идеально на пиццу!",
+	    	"Italian": "Fette di ananas dolci. Perfette sulla pizza!",
     },
 	"GAMEPLAY_CheeseDoodles": {
         "English": "Bag of Cheese Doodles",
 		"Russian": "Пакет сырных чипсов",
+		"Italian": "Sacchetto di Scarabocchi di Formaggio",
     },
     "GAMEPLAY_CheeseDoodlesDescription": {
         "English": "Cheesy goodness. Will coat your fingers in orange cheese-dust.",
 		"Russian": "Сырное блаженство. Оранжевая сырная крошка покроет ваши пальцы.",
+	    	"Italian": "Bontà formaggiosa. Rivestirà le tue dita in una polvere formaggiosa arancione.",
     },
 	"GAMEPLAY_BabyFoodBanana": {
         "English": "Jar of babyfood",
 		"Russian": "Детское питание",
+		"Italian": "Barattolo di Cibo per Bambini",
     },
     "GAMEPLAY_BabyFoodBananaDescription": {
         "English": "Pretty much just mashed bananas. Sweet and tasty.",
 		"Russian": "Приличное количество бананового пюре. Вкусно и сладко.",
+	    	"Italian": "Praticamente solo un purè di banane. Dolci e gustosi.",
     },
 	"GAMEPLAY_BabyFoodCarrot": {
         "English": "Jar of babyfood",
 		"Russian": "Детское питание",
+		"Italian": "Barattolo di Cibo per Bambini",
     },
     "GAMEPLAY_BabyFoodCarrotDescription": {
         "English": "The sadder version of babyfood, just vegetables. Healthy, but thats about it.",
 		"Russian": "Печальная сторона детского питания. Полезная и только.",
+	    	"Italian": "La versione più triste del cibo per bambini, solo verdura. Sano, ma questo è tutto.",
     },
 	"GAMEPLAY_BabyFoodBerries": {
         "English": "Jar of babyfood",
 		"Russian": "Детское питание",
+		"Italian": "Barattolo di Cibo per Bambini",
     },
     "GAMEPLAY_BabyFoodBerriesDescription": {
         "English": "Mashed berries, a nice dessert in a pinch.",
 		"Russian": "Ягодное пюре, приятный десерт в случае нужды.",
+	    	"Italian": "Purè di bacche, un buon dessert in caso di necessità.",
     },
 	"GAMEPLAY_BabyFoodPeas": {
         "English": "Jar of babyfood",
 		"Russian": "Детское питание",
+		"Italian": "Barattolo di Cibo per Bambini",
     },
     "GAMEPLAY_BabyFoodPeasDescription": {
         "English": "Mushy peas. Not the nicest texture, but pairs surprisingly well with some fish.",
 		"Russian": "Гороховое пюре. Не самая приятная текстура, но неожиданно хорошо сочетается с рыбой.",
+	    	"Italian": "Purè di piselli. Non ha una buona consistenza, ma si abbina sorprendentemente bene con un po' di pesce.",
     },
 	"GAMEPLAY_SoyMilk": {
         "English": "Soy Milk",
 		"Russian": "Соевое молоко",
+		"Italian": "Latte di Soia",
     },
     "GAMEPLAY_SoyMilkDescription": {
         "English": "Works pretty much the same as milk, but is storeable for much longer.",
 		"Russian": "Почти как обычное молоко, но хранится гораздо дольше.",
+	    	"Italian": "Funziona praticamente come il latte, ma si conserva più a lungo.",
     },
 	"GAMEPLAY_CookiesJam": {
         "English": "Jam Drop Cookies",
 		"Russian": "Печенье с джемом",
+		"Italian": "Biscotti Jam Drop",
     },
     "GAMEPLAY_CookiesJamDescription": {
         "English": "A swedish traditional cookie. Often made with raspberry jam.",
 		"Russian": "Традиционное Шведское печенье. Обычно оно с малиновым джемом.",
+	    	"Italian": "Biscotti tradizionali della Svezia. Di solito fatte con la marmellata di lampone.",
     },
 	"GAMEPLAY_MixedNuts": {
         "English": "Bag of mixed nuts",
 		"Russian": "Ореховая смесь",
+		"Italian": "Sacchetto di noci miste",
     },
     "GAMEPLAY_MixedNutsDescription": {
         "English": "A good source of energy!",
 		"Russian": "Хороший источник энергии!",
+	    	"Italian": "Una buona fonte di energia!",
     },
 	"GAMEPLAY_TrailMix": {
         "English": "Bag of trail mix",
 		"Russian": "Походная смесь",
+		"Italian": "Sacchetto di trail mix"
     },
     "GAMEPLAY_TrailMixDescription": {
         "English": "Perfect for hikes. A good energy boost!",
 		"Russian": "Идеально для походов. Хороший источник энергии!",
+	    	"Italian": "Perfetto per le escursioni. Una buona sferzata d'energia!",
 	}
 }
