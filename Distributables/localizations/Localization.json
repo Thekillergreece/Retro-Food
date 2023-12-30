@@ -42,7 +42,7 @@
 	"GAMEPLAY_ChickenMeatballs": {
         "English": "Can of Chicken Meatballs",
 		"Russian": "Куриные фрикадельки",
-		"Italian": Lattina di Polpette di Pollo",
+		"Italian": "Lattina di Polpette di Pollo",
     },
     "GAMEPLAY_ChickenMeatballsDescription": {
         "English": "The less-traditional version of Swedish meatballs.",
@@ -142,10 +142,12 @@
 	"GAMEPLAY_OrangeBiscuits": {
         "English": "Orange Biscuits",
 		"Russian": "Апельсиновое печенье",
+		"Italian": "Biscotti All'Arancia",
     },
     "GAMEPLAY_OrangeBiscuitsDescription": {
         "English": "Simple Biscuits with a faint orange flavour.",
 		"Russian": "Простые печеньки с лёгким апельсиновым ароматом.",
+	    	"Italian": "Biscotti semplici con un leggero sapore di arancia.",
     },
     "GAMEPLAY_Sausages": {
         "English": "Can of Sausages",,
