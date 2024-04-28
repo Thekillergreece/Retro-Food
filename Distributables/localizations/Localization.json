@@ -27,7 +27,7 @@
     "GAMEPLAY_CrushedTomatoesDescription": {
         "English": "Boring. Needs spices and some protein.",
 		"Russian": "Скучно. Нужны приправы и немного белка.",
-	    	"Italian": "Noioso. Servono specie e qualche proteina.",
+	    	"Italian": "Noioso. Servono spezie e qualche proteina.",
     },
 	"GAMEPLAY_SwedishMeatballs": {
         "English": "Can of Swedish Meatballs",
@@ -57,7 +57,7 @@
     "GAMEPLAY_AppleSnacksDescription": {
         "English": "Dried, sweet pieces of apple. Yum!",
 		"Russian": "Сушеные сладкие дольки яблок. Ням!",
-	    	"Italian": "Secche, dolci pezzi di mele. Gnam!",
+	    	"Italian": "Pezzi di mele secche e dolci. Gnam!",
     },
 	"GAMEPLAY_MacCheese": {
         "English": "Box of Mac & Cheese",
@@ -177,7 +177,7 @@
     "GAMEPLAY_CheeseDoodlesDescription": {
         "English": "Cheesy goodness. Will coat your fingers in orange cheese-dust.",
 		"Russian": "Сырное блаженство. Оранжевая сырная крошка покроет ваши пальцы.",
-	    	"Italian": "Bontà formaggiosa. Rivestirà le tue dita in una polvere formaggiosa arancione.",
+	    	"Italian": "Bontà formaggiosa. Ricoprirà le tue dita in una polvere formaggiosa arancione.",
     },
 	"GAMEPLAY_BabyFoodBanana": {
         "English": "Jar of babyfood",
@@ -257,6 +257,6 @@
     "GAMEPLAY_TrailMixDescription": {
         "English": "Perfect for hikes. A good energy boost!",
 		"Russian": "Идеально для походов. Хороший источник энергии!",
-	    	"Italian": "Perfetto per le escursioni. Una buona sferzata d'energia!",
+	    	"Italian": "Perfetto per le escursioni. Una buona carica d'energia!",
 	}
 }
