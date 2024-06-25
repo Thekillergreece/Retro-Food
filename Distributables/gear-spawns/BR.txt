@@ -2,8 +2,8 @@
 
 scene=TracksRegion
 # Maintenance Yard
-item=GEAR_PremiumPasta p=584.7892,199.2736,566.9101 r=0.0000,256.8834,0.0000 c=35
 item=GEAR_RandomPackage p=577.7573,198.9906,565.2987 r=270.0000,150.3257,0.0000 c=50
+item=GEAR_CheeseDoodles p=581.2153,199.9928,564.6303 r=-0.0000,16.0444,-0.0000 c=35
 
 scene=MaintenanceShedA
 item=GEAR_MashedPotatoes p=-10.9806,0.2855,-24.6067 r=-0.0000,48.3247,-0.0000 c=75

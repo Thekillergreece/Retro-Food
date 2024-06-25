@@ -8,9 +8,11 @@ item=GEAR_SwedishMeatballs p=300.1919,239.5088,348.0333 r=0.0000,247.0049,90.000
 item=GEAR_SwedishMeatballs p=300.3266,239.4488,348.0013 r=0.0000,295.9335,0.0000 c=50
 item=GEAR_MacCheese p=299.3451,239.3990,351.8377 r=-0.0000,86.0574,-0.0000 c=75
 item=GEAR_AppleSnacks p=299.4390,239.0591,351.7705 r=270.0000,74.9867,0.0000 c=50
+item=GEAR_CheeseDoodles p=300.4137,240.1541,348.3092 r=-0.0000,89.2599,-0.0000 c=50
 # Highway Cars
 item=GEAR_MacCheese p=-92.9356,50.2542,-323.8079 r=0.3355,358.7822,0.6335 c=50
-
+item=GEAR_CheeseDoodles p=-114.3803,51.0356,-334.6786 r=3.9607,335.0118,359.5044 c=50
+item=GEAR_TrailMix p=-234.8256,50.3815,-381.1503 r=271.4998,309.4144,319.9818 c=50
 
 scene=RadioControlHutB
 item=GEAR_BakedBeans p=1.9237,0.9645,-3.3307 r=-0.0000,47.5579,-0.0000 c=50
@@ -19,10 +21,11 @@ item=GEAR_CheeseDoodles p=-4.8163,0.6388,2.7237 r=0.0000,346.8089,0.0000 c=50
 item=GEAR_CookiesJam p=3.2810,1.5710,-0.2886 r=-0.0000,52.4139,-0.0000 c=75
 
 scene=CanneryTrailerA
-item=GEAR_PremiumPasta p=1.8546,0.2624,-1.3748 r=-0.0000,27.4715,-0.0000 c=50
-item=GEAR_OrangeBiscuits p=-0.2485,0.8987,-1.5696 r=-0.0000,85.5538,-0.0000 c=50
+item=GEAR_PremiumPasta p=1.8546,0.2624,-1.3748 r=-0.0000,27.4715,-0.0000 c=45
+item=GEAR_OrangeBiscuits p=-0.2485,0.8987,-1.5696 r=-0.0000,85.5538,-0.0000 c=65
 item=GEAR_CheeseDoodles p=3.2597,0.5385,1.7379 r=0.0000,244.5236,0.0000 c=75
-item=GEAR_Pineapples p=-0.1372,0.8979,-1.8167 r=0.0000,273.7797,0.0000 c=50
+item=GEAR_Pineapples p=-0.1372,0.8979,-1.8167 r=0.0000,273.7797,0.0000 c=35
+item=GEAR_RandomCannedFood p=0.4053,0.2530,-1.5119 r=0.0000,341.8596,0.0000 c=30
 
 scene=MaintenanceShedB
 item=GEAR_PremiumPastaCooked p=-5.3432,1.0039,-21.7497 r=0.0000,321.3849,0.0000 c=85
@@ -30,6 +33,8 @@ item=GEAR_OrangeBiscuits p=-7.7345,1.3338,-24.9393 r=-0.0000,4.5566,-0.0000 c=50
 item=GEAR_AppleSauceJar p=-11.2816,1.0611,-22.3966 r=86.1360,236.3174,277.2480 c=50
 item=GEAR_MashedPotatoes p=-7.6504,0.0432,-25.1693 r=270.0000,16.2137,0.0000 c=50
 item=GEAR_SoyMilk p=-10.9891,0.2897,-23.9058 r=90.0000,203.1264,0.0000 c=50
+item=GEAR_RandomCannedFood p=-6.7904,1.3331,-27.1256 r=-0.0000,20.9302,-0.0000 c=40
+item=GEAR_RandomCannedFood p=-6.7437,1.3931,-26.8110 r=0.0000,307.0656,90.0001 c=40
 item=GEAR_CookiesJam p=-7.9036,0.1886,-25.2036 r=-0.0000,64.9399,-0.0000 c=75
 item=GEAR_CheeseDoodles p=3.8001,1.0530,-21.2124 r=0.0000,212.3254,0.0000 c=75
 item=GEAR_TrailMix p=6.5234,0.9532,-25.5766 r=-0.0000,102.1019,-0.0000 c=50

@@ -1,6 +1,6 @@
 # FORLORD MUSKEG SPAWN POINTS
 
-scene=marshregion
+scene=MarshRegion
 # Train
 item=GEAR_RandomCannedFood p=1113.3455,-130.0340,974.8480 r=0.0000,334.4359,0.0000 c=50
 item=GEAR_RandomCannedFood p=1118.0762,-129.8775,976.4886 r=357.2558,330.3460,2.4541 c=50

@@ -1,31 +1,46 @@
 #PREPPER CACHES LOOT SPAWNS
 
+# WEAPONS PREPPER 
 scene=PrepperCacheA
-item=GEAR_RandomBox p=-2.2601,0.0059,-1.2028 r=-0.0000,98.7804,-0.0000 c=75
-item=GEAR_RandomBox p=-2.1028,0.0059,-1.2458 r=-0.0000,76.6209,-0.0000 c=75
-item=GEAR_RandomCannedFood p=-0.7751,0.0028,1.3015 r=0.0000,326.3714,0.0000 c=75
+item=GEAR_RandomCannedFood p=-0.7751,0.0028,1.3015 r=0.0000,326.3714,0.0000 c=45
+item=GEAR_OrangeBiscuits p=-3.0512,1.2098,1.4629 r=-0.0000,7.1182,-0.0000 c=65
 
+# FOOD PREPPER
 scene=PrepperCacheB
 item=GEAR_RandomCannedFood p=3.3052,1.1728,1.9880 r=0.0000,252.2707,0.0000 c=75
+item=GEAR_GroundBeef p=3.0711,1.1728,1.9525 r=-0.0000,144.2540,-0.0000 c=75
+item=GEAR_BakedBeans p=3.5696,1.5808,1.9448 r=0.0000,245.7974,0.0000 c=75
+item=GEAR_BakedBeans p=3.4365,1.6408,2.1218 r=-0.0000,324.8575,90.0000 c=75
 item=GEAR_RandomCannedFood p=3.1903,1.1728,1.9388 r=-0.0000,170.5857,-0.0000 c=75
 item=GEAR_AppleSauceJar p=0.6441,0.9751,-1.0254 r=0.0000,300.3841,0.0000 c=75
+item=GEAR_RandomBabyFood p=1.4356,1.1147,1.4415 r=0.0000,355.9999,0.0000 c=100
+item=GEAR_RandomBabyFood p=1.4942,1.1147,1.3553 r=-0.0000,104.1715,-0.0000 c=85
+item=GEAR_RandomBabyFood p=1.3975,1.1147,1.3269 r=-0.0000,89.7135,-0.0000 c=75
 
+# HUNTING PREPPER
 scene=PrepperCacheC
 item=GEAR_RandomCannedFood p=1.5251,0.5387,1.7798 r=0.0000,231.4844,0.0000 c=75
 item=GEAR_RandomCannedFood p=1.4012,0.5387,1.7357 r=-0.0000,167.8131,-0.0000 c=75
 item=GEAR_OrangeBiscuits p=2.8236,0.5395,1.8017 r=0.0000,321.9727,0.0000 c=75
 
+# FOOD PREPPER
 scene=PrepperCacheD
-item=GEAR_RandomPackage p=-3.5136,1.1150,1.6305 r=0.0000,320.1578,0.0000 c=100
+item=GEAR_RandomPackage p=0.3999,1.4478,1.5635 r=0.0000,243.7736,0.0000 c=85
 item=GEAR_RandomBox p=-1.2827,1.5985,-1.8639 r=-0.0000,17.5143,-0.0000 c=75
+item=GEAR_CheeseDoodles p=-1.6604,1.1148,1.4450 r=-0.0000,33.7013,-0.0000 c=75
 item=GEAR_OrangeBiscuits p=1.3328,1.0540,-5.0558 r=-0.0000,96.4278,-0.0000 c=75
 
+# HUNTING PREPPER
 scene=PrepperCacheE
 item=GEAR_RandomCannedFood p=-3.3373,1.6264,-1.4738 r=-0.0000,69.0402,-0.0000 c=75
 item=GEAR_RandomCannedFood p=-3.2430,1.6264,-1.5559 r=-0.0000,37.8824,-0.0000 c=75
 item=GEAR_RandomCannedFood p=-3.3705,1.6264,-1.2028 r=-0.0000,82.1282,-0.0000 c=75
+item=GEAR_CheeseDoodles p=2.1684,1.0221,1.4802 r=-0.0000,44.1181,-0.0000 c=75
 
+# WEAPONS PREPPER
 scene=PrepperCacheF
-item=GEAR_AppleSnacks p=0.6987,0.0733,3.7650 r=0.0000,223.7809,0.0000 c=100
-item=GEAR_RandomBox p=0.4360,0.0733,3.6755 r=1.3740,156.8579,0.1848 c=75
+item=GEAR_AppleSnacks p=0.6987,0.0733,3.7650 r=0.0000,223.7809,0.0000 c=85
+item=GEAR_RandomBox p=0.4360,0.0733,3.6755 r=1.3740,156.8579,0.1848 c=65
 item=GEAR_RandomCannedFood p=1.5895,-0.5804,2.3072 r=0.0000,233.2156,0.0000 c=75
+item=GEAR_RandomPackage p=1.5281,-0.7134,2.8376 r=270.0000,244.6123,0.0000 c=50
+item=GEAR_CheeseDoodles p=1.4469,-0.5806,3.7789 r=0.0000,347.7428,0.0000 c=50

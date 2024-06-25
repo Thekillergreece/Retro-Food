@@ -1,0 +1,37 @@
+# SUNDERED PASS SPAWN POINTS
+
+# Sundered Pass
+scene=MountainPassRegion
+# Cabin A
+item=GEAR_CookiesJam p=202.5747,196.7530,762.5367 r=0.0000,314.7326,0.0000 c=35
+item=GEAR_TrailMix p=202.8824,198.6150,761.1349 r=273.8517,183.1134,82.7475 c=45
+item=GEAR_GroundBeef p=202.4087,196.8990,764.6495 r=-0.0000,69.9970,-0.0000 c=25
+# Cabin B
+item=GEAR_RandomCannedFood p=259.0010,371.5907,-52.3627 r=-0.0000,103.5404,-0.0000 c=45
+item=GEAR_RandomCannedFood p=259.0486,371.5904,-53.0708 r=-0.0000,165.3026,-0.0000 c=40
+# Cabin C
+item=GEAR_AppleSnacks p=-338.7499,599.8982,-999.3959 r=0.0000,208.3951,0.0000 c=35
+item=GEAR_OrangeBiscuits p=-335.9362,600.9615,-999.3071 r=-0.0000,76.5070,-0.0000 c=75
+item=GEAR_Pineapples p=-338.5621,600.0504,-998.4810 r=359.6044,144.6103,1.3272 c=55
+
+
+#
+scene=MountainPassCabinA
+item=GEAR_Sausages p=1.1714,0.0601,2.1199 r=270.0000,40.2091,0.0000 c=45
+item=GEAR_CrushedTomatoes p=1.5225,0.0548,3.6817 r=-0.0000,27.7010,90.0000 c=75
+item=GEAR_MixedNuts p=4.4948,0.0489,-0.7450 r=89.9720,238.1287,0.0000 c=45
+#
+scene=MountainPassBuriedCabin
+item=GEAR_OrangeBiscuits p=1.0239,3.7690,5.9883 r=0.0000,296.8596,0.0000 c=45
+item=GEAR_BabyFoodBerries p=-2.3821,2.5271,6.3082 r=0.7897,303.9212,358.8815 c=85
+item=GEAR_BabyFoodBanana p=-2.4443,2.5286,6.3356 r=0.3177,104.1793,358.6682 c=85
+item=GEAR_SwedishMeatballs p=-2.6193,1.8788,6.4585 r=1.3193,52.5599,0.3977 c=75
+item=GEAR_SwedishMeatballs p=-2.8462,1.1319,5.9529 r=270.0000,334.5371,0.0000 c=50
+item=GEAR_DriedRaisins p=-0.4327,0.9711,-4.1146 r=270.0000,313.3025,0.0000 c=35
+
+#
+scene=RadarBuilding
+item=GEAR_MacCheese p=-5.6135,0.1178,-2.2512 r=0.0000,352.1021,0.0000 c=45
+item=GEAR_MashedPotatoes p=-5.5777,0.1178,-2.4166 r=-0.0000,49.7620,-0.0000 c=40
+item=GEAR_CheeseDoodles p=-5.5007,1.4362,-2.6076 r=0.0000,273.1056,0.0000 c=25
+item=GEAR_BakedBeans p=-5.4711,1.4364,-2.7485 r=-0.0000,35.9952,-0.0000 c=65

@@ -1,12 +1,18 @@
 #ASH CANYON SPAWN POINTS
 
+scene=AshCanyonRegion
+# Somewhere
+item=GEAR_Pineapples p=246.1813,261.0055,426.2823 r=352.3960,308.7828,338.1989 c=45
+item=GEAR_Pineapples p=245.9628,260.9756,426.2784 r=54.5807,327.4836,298.7440 c=20
+
 scene=AshWoodCabinA
-item=GEAR_GroundBeef p=-2.0239,0.0375,1.9249 r=-0.0000,100.9440,-0.0000 c=75
-item=GEAR_GroundBeef p=-1.8978,0.0975,1.9786 r=-0.0000,245.0965,90.0000 c=50
-item=GEAR_DriedRaisins p=-1.0761,1.9720,-3.5960 r=270.0000,67.2418,0.0000 c=50
-item=GEAR_CheeseDoodles p=0.8158,0.9053,-3.4136 r=-0.0000,58.6092,-0.0000 c=50
-item=GEAR_RandomBabyFood p=-1.1981,0.9268,3.5809 r=0.0000,232.7493,0.0000 c=25
-item=GEAR_CookiesJam p=0.2447,0.5222,1.0861 r=90.0000,19.9467,0.0000 c=25
+item=GEAR_GroundBeef p=-2.0239,0.0375,1.9249 r=-0.0000,100.9440,-0.0000 c=65
+item=GEAR_GroundBeef p=-1.8978,0.0975,1.9786 r=-0.0000,245.0965,90.0000 c=45
+item=GEAR_DriedRaisins p=-1.0761,1.9720,-3.5960 r=270.0000,67.2418,0.0000 c=65
+item=GEAR_CheeseDoodles p=0.8158,0.9053,-3.4136 r=-0.0000,58.6092,-0.0000 c=70
+item=GEAR_RandomBabyFood p=-1.1981,0.9268,3.5809 r=0.0000,232.7493,0.0000 c=35
+item=GEAR_RandomBabyFood p=-1.2779,0.9068,3.5849 r=-0.0000,46.4861,-0.0000 c=25
+item=GEAR_CookiesJam p=0.2447,0.5222,1.0861 r=90.0000,19.9467,0.0000 c=30
 
 scene=AshCabinD
 item=GEAR_OrangeBiscuits p=1.2062,0.0290,2.6103 r=0.0000,229.5324,0.0000 c=50
@@ -16,15 +22,15 @@ item=GEAR_Sausages p=2.5363,2.0500,-3.2210 r=15.0003,51.4516,0.0001 c=75
 item=GEAR_CookiesJam p=1.3134,0.0277,2.7229 r=0.0000,281.8038,0.0000 c=25
 
 scene=AshCabinF
-item=GEAR_CrushedTomatoes p=0.5702,0.0355,3.1533 r=-0.0000,162.6773,-0.0000 c=50
-item=GEAR_Pineapples p=2.3904,0.0355,3.2477 r=0.0000,292.0904,0.0000 c=50
+item=GEAR_CrushedTomatoes p=0.5702,0.0355,3.1533 r=-0.0000,162.6773,-0.0000 c=25
+item=GEAR_Pineapples p=2.3904,0.0355,3.2477 r=0.0000,292.0904,0.0000 c=35
 item=GEAR_RandomBabyFood p=2.2716,1.4521,0.3416 r=-0.0000,43.5882,-0.0000 c=50
-item=GEAR_RandomBabyFood p=2.2419,1.4921,0.2882 r=90.0000,116.1886,0.0000 c=50
-item=GEAR_CheeseDoodles p=2.3490,0.8055,1.1036 r=-0.0000,119.4113,-0.0000 c=75
+item=GEAR_RandomBabyFood p=2.2388,1.4721,0.2880 r=90.0000,178.4116,0.0000 c=50
+item=GEAR_CheeseDoodles p=2.3490,0.8055,1.1036 r=-0.0000,119.4113,-0.0000 c=55
 
 scene=WoodCabinB
 item=GEAR_OrangeBiscuits p=5.6416,0.2275,-1.6528 r=0.0000,65.4790,314.9999 c=30
 item=GEAR_BakedBeans p=-0.0461,1.0408,3.7013 r=0.0000,248.0635,0.0000 c=75
 item=GEAR_ChickenMeatballs p=-0.0078,1.0408,3.5656 r=0.0000,189.2947,0.0000 c=75
-item=GEAR_CheeseDoodles p=-0.4235,0.0022,3.5378 r=-0.0000,18.1722,-0.0000 c=50
-item=GEAR_CookiesJam p=1.3827,0.0019,-3.8846 r=-0.0000,155.3919,-0.0000 c=100
+item=GEAR_CheeseDoodles p=-0.4235,0.0022,3.5378 r=-0.0000,18.1722,-0.0000 c=35
+item=GEAR_CookiesJam p=1.3827,0.0019,-3.8846 r=-0.0000,155.3919,-0.0000 c=85
