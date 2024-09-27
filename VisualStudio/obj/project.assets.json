@@ -4894,11 +4894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\My mods\\Retro Food\\VisualStudio\\RetroFood.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Retro-Food\\VisualStudio\\RetroFood.csproj",
       "projectName": "RetroFood",
-      "projectPath": "C:\\Users\\PC\\Desktop\\My mods\\Retro Food\\VisualStudio\\RetroFood.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Retro-Food\\VisualStudio\\RetroFood.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\My mods\\Retro Food\\VisualStudio\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\Retro-Food\\VisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

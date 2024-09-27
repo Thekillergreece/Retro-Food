@@ -1,0 +1,8 @@
+#ROCKY THOROUGHFARE SPAWN POINTS
+
+# Rocky Thoroughfare
+scene=ModRockyThoroughfare
+item=GEAR_CheeseDoodles p=1020.6601,257.6931,1481.4681 r=0.8210,38.1212,0.0437 c=30
+item=GEAR_CookiesJam p=714.1859,259.9845,1443.9742 r=271.0421,25.9305,6.2642 c=35
+# Peter's Pond
+item=GEAR_RandomCannedFood p=748.5218,247.9616,1104.6868 r=314.9999,43.7809,-0.0000 c=25

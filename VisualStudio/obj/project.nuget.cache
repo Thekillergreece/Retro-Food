@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h8Bf+1c6nHSNrSBn0u1L609X0mvL6cQXAc8Y3N6c3SR5WT/A7qy6iVa+FE6+03QNNBULxxb3TDqoyBs7TP0gjQ==",
+  "dgSpecHash": "Enp10+SqCigiUdW/xjMQYOSr99Xz4xuFzwMNuqVCQVtT97mWU1MtHptL/GBJcrys1wNLXq9EIGNaH5eggDR9Xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\My mods\\Retro Food\\VisualStudio\\RetroFood.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Retro-Food\\VisualStudio\\RetroFood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\asmresolver\\5.0.0\\asmresolver.5.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\asmresolver.dotnet\\5.0.0\\asmresolver.dotnet.5.0.0.nupkg.sha512",
