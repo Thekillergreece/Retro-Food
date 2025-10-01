@@ -1,0 +1,3 @@
+#MOUNTAIN PASS SPAWN POINTS
+
+scene=ModMountainPass_TrainShed

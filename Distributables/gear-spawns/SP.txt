@@ -35,3 +35,7 @@ item=GEAR_MacCheese p=-5.6135,0.1178,-2.2512 r=0.0000,352.1021,0.0000 c=45
 item=GEAR_MashedPotatoes p=-5.5777,0.1178,-2.4166 r=-0.0000,49.7620,-0.0000 c=40
 item=GEAR_CheeseDoodles p=-5.5007,1.4362,-2.6076 r=0.0000,273.1056,0.0000 c=25
 item=GEAR_BakedBeans p=-5.4711,1.4364,-2.7485 r=-0.0000,35.9952,-0.0000 c=65
+
+#
+scene=MountainPassBasement
+item=GEAR_DriedRaisins p=-2.3787,1.6476,-3.4582 r=-0.0000,70.5515,-0.0000 c=50
