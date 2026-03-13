@@ -5,7 +5,8 @@
         "Turkish": "Kuru Fasulye Konservesi",
 		"Italian": "Lattina di Fagioli al Forno",
 		"German": "Dose gebackene Bohnen",
-		"Japanese": "ベイクドビーンズの缶詰"
+		"Japanese": "ベイクドビーンズの缶詰",
+		"Traditional Chinese": "焗豆罐頭"
     },
     "GAMEPLAY_BakedBeansDescription": {
         "English": "Can of Baked Beans. Nothing special. Good for beans on toast, if you´re into that.",
@@ -13,7 +14,8 @@
         "Turkish": "Bir kutu kuru fasulye. Özel bir şey değil. Eğer seviyorsanız, yedikten sonra yanınızda kimse olmamasına gayret gösterin.",
 		"Italian": "Una lattina di Fagioli al Forno. Niente di speciale. Buono per una fetta di pane tostato con i fagioli, se ti piace.",
 		"German": "Eine Dose gebackene Bohnen. Nichts besonderes. Gut für Bohnen auf Toast, wenn du das magst.",
-		"Japanese": "ごくありふれたベイクドビーンズの缶詰。ビーンズ・オン・トーストがお好きならどうぞ。"
+		"Japanese": "ごくありふれたベイクドビーンズの缶詰。ビーンズ・オン・トーストがお好きならどうぞ。",
+		"Traditional Chinese": "一罐焗豆，沒什麼特別的。不過如果你喜歡豆子吐司的話，這倒是絕配。"
     },
     "GAMEPLAY_GroundBeef": {
         "English": "Can of Ground Beef",
@@ -21,7 +23,8 @@
         "Turkish": "Kıyma Konservesi",
 		"Italian": "Lattina di Carne di Manzo Macinata",
 		"German" : "Dose Hackfleisch",
-		"Japanese": "牛挽肉の缶詰"
+		"Japanese": "牛挽肉の缶詰",
+		"Traditional Chinese": "牛絞肉罐頭"
     },
     "GAMEPLAY_GroundBeefDescription": {
         "English": "What do you call a cow with no legs? Ground beef!",
@@ -29,7 +32,8 @@
         "Turkish": "Bacakları olmayan bir ineğe ne denir? Kıyma!",
 		"Italian": "Come chiami una mucca senza le gambe? Carne di Manzo Macinata!",
 		"German":  "Wie nennt man eine Kuh ohne Beine? Hackfleisch!",
-		"Japanese": "足のない牛を何と呼ぶかって？ 挽いた牛肉(Ground beef)さ！\n\n（訳注：地上を意味するgroundと挽いたを意味するgroundを掛けている）"
+		"Japanese": "足のない牛を何と呼ぶかって？ 挽いた牛肉(Ground beef)さ！\n\n（訳注：地上を意味するgroundと挽いたを意味するgroundを掛けている）",
+		"Traditional Chinese": "一隻牛沒了腿叫什麼？在地美食！\n\n（原文：What do you call a cow with no legs? Ground beef!）"
     },
     "GAMEPLAY_CrushedTomatoes": {
         "English": "Can of Crushed Tomatoes",
@@ -37,7 +41,8 @@
         "Turkish": "Ezilmiş Domates Konservesi",
 		"Italian": "Lattina di Pomodori Schiacciati",
 		"German": "Dose zerkleinerte Tomaten",
-		"Japanese": "クラッシュトマトの缶詰"
+		"Japanese": "クラッシュトマトの缶詰",
+		"Traditional Chinese": "番茄醬罐頭"
     },
     "GAMEPLAY_CrushedTomatoesDescription": {
         "English": "Boring. Needs spices and some protein.",
@@ -45,7 +50,8 @@
         "Turkish": "Sıkıcı. Baharat ve biraz protein gerekiyor.",
 		"Italian": "Noioso. Servono spezie e qualche proteina.",
 		"German":  "Langweilig. Benötigt Gewürze und ein bisschen Proteine.",
-		"Japanese": "物足りない。香辛料とタンパク質が必要だ。"
+		"Japanese": "物足りない。香辛料とタンパク質が必要だ。",
+		"Traditional Chinese": "味道平淡。或許加點香料和蛋白質會更好。"
     },
     "GAMEPLAY_SwedishMeatballs": {
         "English": "Can of Swedish Meatballs",
@@ -53,7 +59,8 @@
         "Turkish": "Bir Kutu İsveç Köftesi",
 		"Italian": "Lattina di Polpette Svedesi",
 		"German":  "Dose schwedische Fleischbällchen",
-		"Japanese": "スウェーデン風ミートボールの缶詰"
+		"Japanese": "スウェーデン風ミートボールの缶詰",
+		"Traditional Chinese": "瑞典肉丸罐頭"
     },
     "GAMEPLAY_SwedishMeatballsDescription": {
         "English": "Traditional Swedish Meatballs!",
@@ -61,7 +68,8 @@
         "Turkish": "Geleneksel İsveç Köftesi!",
 		"Italian": "Polpette Svedesi Tradizionali!",
 		"German":  "Traditionelle schwedische Fleischbällchen",
-		"Japanese": "伝統的なスウェーデン風ミートボールだよ！"
+		"Japanese": "伝統的なスウェーデン風ミートボールだよ！",
+		"Traditional Chinese": "正宗的瑞典肉丸！"
     },
     "GAMEPLAY_ChickenMeatballs": {
         "English": "Can of Chicken Meatballs",
@@ -69,7 +77,8 @@
         "Turkish": "Bir Kutu Tavuk Köftesi",
 		"Italian": "Lattina di Polpette di Pollo",
 		"German":  "Dose Hühnchenfleischbällchen",
-		"Japanese": "チキンミートボールの缶詰"
+		"Japanese": "チキンミートボールの缶詰",
+		"Traditional Chinese": "雞肉肉丸罐頭"
     },
     "GAMEPLAY_ChickenMeatballsDescription": {
         "English": "The less-traditional version of Swedish meatballs.",
@@ -77,7 +86,8 @@
         "Turkish": "İsveç köftesinin daha az geleneksel versiyonu.",
 		"Italian": "La versione meno tradizionale delle polpette svedesi.",
 		"German":  "Die weniger traditionelle Version von schwedischen Fleischbällchen",
-		"Japanese": "伝統的ではないスウェーデン風ミートボールだ。"
+		"Japanese": "伝統的ではないスウェーデン風ミートボールだ。",
+		"Traditional Chinese": "「沒那麼正宗」的瑞典肉丸。"
     },
     "GAMEPLAY_AppleSnacks": {
         "English": "Box of Apple Snacks",
@@ -85,7 +95,8 @@
         "Turkish": "Elmalı Atıştırmalık Kutusu",
 		"Italian": "Scatola di Spuntini alla Mela",
 		"German":  "Schachtel Apfelsnack",
-		"Japanese": "アップルスナックの箱"
+		"Japanese": "アップルスナックの箱",
+		"Traditional Chinese": "蘋果乾點心"
     },
     "GAMEPLAY_AppleSnacksDescription": {
         "English": "Dried, sweet pieces of apple. Yum!",
@@ -93,7 +104,8 @@
         "Turkish": "Kurutulmuş, tatlı elma parçaları. Nefis!",
 		"Italian": "Pezzi di mele secche e dolci. Gnam!",
 		"German":  "Getrocknete, süße Apfelstücke. Yummie!",
-		"Japanese": "乾燥させた甘いリンゴのかけら。うまい！"
+		"Japanese": "乾燥させた甘いリンゴのかけら。うまい！",
+		"Traditional Chinese": "甜甜的乾燥蘋果片。好吃！"
     },
     "GAMEPLAY_MacCheese": {
         "English": "Box of Mac & Cheese",
@@ -101,7 +113,8 @@
         "Turkish": "Bir Kutu Mac & Cheese",
 		"Italian": "Scatola di Mac & Formaggio",
 		"German":  "Schachtel Makkaroni mit Käse",
-		"Japanese" : "チーズマカロニの箱"
+		"Japanese" : "チーズマカロニの箱",
+		"Traditional Chinese": "起司通心粉"
     },
     "GAMEPLAY_MacCheeseDescription": {
         "English": "One of the best combinations, maybe ever.",
@@ -109,7 +122,8 @@
         "Turkish": "Belki de gelmiş geçmiş en iyi kombinasyonlardan biri.",
 		"Italian": "Una delle migliori combinazioni, forse la migliore.",
 		"German":  "Eine der besten Kombinationen, vielleicht jemals.",
-		"Japanese": "おそらく、最高の組み合わせのひとつだ。"
+		"Japanese": "おそらく、最高の組み合わせのひとつだ。",
+		"Traditional Chinese": "這絕對是有史以來最完美的組合之一。"
     },
     "GAMEPLAY_MacCheeseCooked": {
         "English": "Bowl of Mac & Cheese",
@@ -117,7 +131,8 @@
         "Turkish": "Bir Kase Mac & Cheese",
 		"Italian": "Ciotola di Mac & Formaggio",
 		"German":  "Schüssel Makkaroni mit Käse",
-		"Japanese": "チーズマカロニのボウル"
+		"Japanese": "チーズマカロニのボウル",
+		"Traditional Chinese": "一碗起司通心粉"
     },
     "GAMEPLAY_MacCheeseCookedDescription": {
         "English": "Full of creamy, cheese-y goodness.",
@@ -125,7 +140,8 @@
         "Turkish": "Kremalı, peynirli iyilik dolu.",
 		"Italian": "Piena di bontà cremosa e formaggiosa.",
 		"German":  "Voll von cremiger, käsiger Göttlichkeit.",
-		"Japanese": "クリーミーさとチーズの美味しさが一杯だ。"
+		"Japanese": "クリーミーさとチーズの美味しさが一杯だ。",
+		"Traditional Chinese": "充滿濃郁奶油及起司的美味餐食。"
     },
     "GAMEPLAY_PremiumPasta": {
         "English": "Box of Pasta",
@@ -133,7 +149,8 @@
         "Turkish": "Bir Kutu Makarna",
 		"Italian": "Scatola di Pasta",
 		"German":  "Schachtel Nudeln",
-		"Japanese": "パスタの箱"
+		"Japanese": "パスタの箱",
+		"Traditional Chinese": "義大利麵"
     },
     "GAMEPLAY_PremiumPastaDescription": {
         "English": "Dried pasta, a good household staple.",
@@ -141,7 +158,8 @@
         "Turkish": "Kurutulmuş makarna, iyi bir ev gıdasıdır.",
 		"Italian": "Pasta secca, Un buon alimento domestico.",
 		"German":  "Getrocknete Pasta, ein gutes Grundnahrungsmittel im Haushalt.",
-		"Japanese": "乾燥パスタ、家庭の定番だ。"
+		"Japanese": "乾燥パスタ、家庭の定番だ。",
+		"Traditional Chinese": "乾燥的義大利麵，是家戶必備的主食。"
     },
     "GAMEPLAY_PremiumPastaCooked": {
         "English": "Bowl of Pasta",
@@ -149,7 +167,8 @@
         "Turkish": "Bir Kase Makarna",
 		"Italian": "Ciotola di Pasta",
 		"German":  "Schüssel Nudeln",
-		"Japanese": "パスタのボウル"
+		"Japanese": "パスタのボウル",
+		"Traditional Chinese": "一碗義大利麵"
     },
     "GAMEPLAY_PremiumPastaCookedDescription": {
         "English": "Boring. Bland. Needs some type of sauce.",
@@ -157,7 +176,8 @@
         "Turkish": "Sıkıcı. Tatsız. Bir çeşit sosa ihtiyaç var.",
 		"Italian": "Noioso. Privo di sapore. Serve qualche tipo di salsa.",
 		"German":  "Langweilig. Fad. Benötigt irgendeine Soße.",
-		"Japanese": "物足りない。味気ない。何かソースが必要だ。"
+		"Japanese": "物足りない。味気ない。何かソースが必要だ。",
+		"Traditional Chinese": "無趣，而且沒啥味道。或許加點醬料會更好。"
     },
     "GAMEPLAY_DriedRaisins": {
         "English": "Raisins",
@@ -165,7 +185,8 @@
         "Turkish": "Kuru Üzüm",
 		"Italian": "Uva Secca",
 		"German":  "Getrocknete Rosinen",
-		"Japanese": "レーズン"
+		"Japanese": "レーズン",
+		"Traditional Chinese": "葡萄乾"
     },
     "GAMEPLAY_DriedRaisinsDescription": {
         "English": "Small and sweet.",
@@ -173,7 +194,8 @@
         "Turkish": "Küçük ve tatlı.",
 		"Italian": "Piccole e dolci.",
 		"German":  "Klein und süß.",
-		"Japanese": "小粒で甘い。"
+		"Japanese": "小粒で甘い。",
+		"Traditional Chinese": "小而甜。"
     },
     "GAMEPLAY_MashedPotatoes": {
         "English": "Mashed Potatoes",
@@ -181,7 +203,8 @@
         "Turkish": "Patates Püresi",
 		"Italian": "Purè di Patate",
 		"German": "Kartoffelpüree",
-		"Japanese": "マッシュポテト"
+		"Japanese": "マッシュポテト",
+		"Traditional Chinese": "馬鈴薯泥"
     },
     "GAMEPLAY_MashedPotatoesDescription": {
         "English": "Powdered Mashed Potatoes, add water to make it edible.",
@@ -189,7 +212,8 @@
         "Turkish": "Toz Patates Püresi, yenilebilir hale getirmek için su ekleyin.",
 		"Italian": "Purè di Patate in polvere, aggiungi dell'acqua per renderle commestibili.",
 		"German":  "Pudrige gestampfte Kartoffeln, Wasser hinzufügen um es essbar zu machen.",
-		"Japanese": "粉末マッシュポテト、水を加えれば食べられる。"
+		"Japanese": "粉末マッシュポテト、水を加えれば食べられる。",
+		"Traditional Chinese": "粉末狀的馬鈴薯泥，加水即可食用。"
     },
     "GAMEPLAY_MashedPotatoesCooked": {
         "English": "Bowl of Mashed Potatoes",
@@ -197,7 +221,8 @@
         "Turkish": "Bir Kase Patates Püresi",
 		"Italian": "Ciotola di Purè di Patate",
 		"German":  "Schüssel Kartoffelpüree",
-		"Japanese": "マッシュポテトのボウル"
+		"Japanese": "マッシュポテトのボウル",
+		"Traditional Chinese": "一碗馬鈴薯泥"
     },
     "GAMEPLAY_MashedPotatoesCookedDescription": {
         "English": "Soft, creamy and delicious. Eat it while it´s hot!",
@@ -205,7 +230,8 @@
         "Turkish": "Yumuşak, kremsi ve lezzetli. Sıcak yiyin!",
 		"Italian": "Morbido, cremoso e delizioso. Mangialo mentre è caldo!",
 		"German":  "Weich, cremig und lecker. Iss es, so lange es heiß ist.",
-		"Japanese": "柔らかくてクリーミー、そして美味しい。熱いうちに召し上がれ！"
+		"Japanese": "柔らかくてクリーミー、そして美味しい。熱いうちに召し上がれ！",
+		"Traditional Chinese": "質地鬆軟、味道濃郁且美味。快趁熱吃吧！"
     },
     "GAMEPLAY_AppleSauceJar": {
         "English": "Apple Sauce",
@@ -213,7 +239,8 @@
         "Turkish": "Elma Sosu",
 		"Italian": "Salsa di Mele",
 		"German":  "Apfelsoße",
-		"Japanese": "アップルソース"
+		"Japanese": "アップルソース",
+		"Traditional Chinese": "蘋果醬"
     },
     "GAMEPLAY_AppleSauceJarDescription": {
         "English": "Basically just apples and sugar, but oh-so-good.",
@@ -221,7 +248,8 @@
         "Turkish": "Temelde sadece elma ve şeker, ama çok iyi.",
 		"Italian": "Fondamentalmente solo mele e zucchero, ma molto buono.",
 		"German":  "Eigentlich nur Äpfel und Zugar, aber so gut!",
-		"Japanese": "基本的にはリンゴと砂糖だけ、でもとても美味しい。"
+		"Japanese": "基本的にはリンゴと砂糖だけ、でもとても美味しい。",
+		"Traditional Chinese": "基本上就是蘋果加糖，但真的很好吃。"
     },
     "GAMEPLAY_OrangeBiscuits": {
         "English": "Orange Biscuits",
@@ -229,7 +257,8 @@
         "Turkish": "Portakallı Bisküvi",
 		"Italian": "Biscotti All'Arancia",
 		"German":  "Orangenkekse",
-		"Japanese": "オレンジビスケット"
+		"Japanese": "オレンジビスケット",
+		"Traditional Chinese": "橘子餅乾"
     },
     "GAMEPLAY_OrangeBiscuitsDescription": {
         "English": "Simple Biscuits with a faint orange flavour.",
@@ -237,7 +266,8 @@
         "Turkish": "Hafif portakal aromalı sade bisküviler.",
 		"Italian": "Biscotti semplici con un leggero sapore di arancia.",
 		"German":  "Einfache Kekse mit einem Hauch von Orangenaroma",
-		"Japanese": "ほのかなオレンジ風味のシンプルなビスケット。"
+		"Japanese": "ほのかなオレンジ風味のシンプルなビスケット。",
+		"Traditional Chinese": "帶有淡淡橘子香氣的小餅乾。"
     },
     "GAMEPLAY_Sausages": {
         "English": "Can of Sausages",
@@ -245,7 +275,8 @@
         "Turkish": "Bir Kutu Sosis",
 		"Italian": "Lattina di Salsicce",
 		"German":  "Dose Würstchen",
-		"Japanese": "ソーセージの缶詰"
+		"Japanese": "ソーセージの缶詰",
+		"Traditional Chinese": "香腸罐頭"
     },
     "GAMEPLAY_SausagesDescription": {
         "English": "Cold sausages in a can. You should probably heat these up.",
@@ -253,7 +284,8 @@
         "Turkish": "Soğuk sosisler. Muhtemelen bunları ısıtmalısın.",
 		"Italian": "Fredde salsicce in una lattina. Probabilmente dovresti riscaldarle.",
 		"German":  "Kalte Würstchen in einer Dose. Vielleicht solltest du sie aufwärmen.",
-		"Japanese": "缶入りの冷たいソーセージ。君はおそらくこれを温めるだろう。"
+		"Japanese": "缶入りの冷たいソーセージ。君はおそらくこれを温めるだろう。",
+		"Traditional Chinese": "冷的罐裝香腸。或許該把它們加熱後再食用會更好些。"
     },
     "GAMEPLAY_Pineapples": {
         "English": "Can of Sliced Pineapple",
@@ -261,7 +293,8 @@
         "Turkish": "Dilimlenmiş Ananas Konservesi",
 		"Italian": "Lattina di Ananas Affettato",
 		"German":  "Dose Ananasscheiben",
-		"Japanese": "スライスパイナップルの缶詰"
+		"Japanese": "スライスパイナップルの缶詰",
+		"Traditional Chinese": "鳳梨切片罐頭"
     },
     "GAMEPLAY_PineapplesDescription": {
         "English": "Sweet slices of pineapple. Perfect on pizza!",
@@ -269,7 +302,8 @@
         "Turkish": "Tatlı ananas dilimleri. Pizza üzerinde mükemmel!",
 		"Italian": "Fette di ananas dolci. Perfette sulla pizza!",
 		"German": "Süße Ananasscheiben. Perfekt auf Pizza!",
-		"Japanese": "甘い薄切りパイナップル。ピザにぴったりだ！"
+		"Japanese": "甘い薄切りパイナップル。ピザにぴったりだ！",
+		"Traditional Chinese": "香甜的鳳梨切片。放在披薩上簡直完美！\n\n\n*憤怒的義大利噪音*"
     },
     "GAMEPLAY_CheeseDoodles": {
         "English": "Bag of Cheese Doodles",
@@ -277,7 +311,8 @@
         "Turkish": "Bir Paket Peynirli Cips",
 		"Italian": "Sacchetto di Scarabocchi di Formaggio",
 		"German":  "Tüte Cheez Doodles",
-		"Japanese": "チーズドゥードゥルの袋"
+		"Japanese": "チーズドゥードゥルの袋",
+		"Traditional Chinese": "起司球"
     },
     "GAMEPLAY_CheeseDoodlesDescription": {
         "English": "Cheesy goodness. Will coat your fingers in orange cheese-dust.",
@@ -285,7 +320,8 @@
         "Turkish": "Peynir iyidir. Parmaklarınız turuncu peynir tozuna bulanacak.",
 		"Italian": "Bontà formaggiosa. Ricoprirà le tue dita in una polvere formaggiosa arancione.",
 		"German":  "Käsige Göttlichkeit. Überzieht deine Finger mit orangenem Käsestaub.",
-		"Japanese": "チーズなおいしさ。指がオレンジ色のチーズの粉まみれになる。"
+		"Japanese": "チーズなおいしさ。指がオレンジ色のチーズの粉まみれになる。",
+		"Traditional Chinese": "美味的起司精華，會讓你的手指沾滿橘色的起司粉。"
     },
     "GAMEPLAY_BabyFoodBanana": {
         "English": "Jar of babyfood",
@@ -293,7 +329,8 @@
         "Turkish": "Bir kavanoz bebek maması",
 		"Italian": "Barattolo di Cibo per Bambini",
 		"German":  "Glas Babynahrung",
-		"Japanese": "ベビーフードの瓶（バナナ）"
+		"Japanese": "ベビーフードの瓶（バナナ）",
+		"Traditional Chinese": "嬰兒副食品（香蕉）"
     },
     "GAMEPLAY_BabyFoodBananaDescription": {
         "English": "Pretty much just mashed bananas. Sweet and tasty.",
@@ -301,7 +338,8 @@
         "Turkish": "Muz püresi gibi bir şey. Tatlı ve lezzetli.",
 		"Italian": "Praticamente solo un purè di banane. Dolci e gustosi.",
 		"German": "Eigentlich nur zerdrückte Bananen. Süß und lecker.",
-		"Japanese": "バナナをつぶしただけのもの。甘くておいしい。"
+		"Japanese": "バナナをつぶしただけのもの。甘くておいしい。",
+		"Traditional Chinese": "基本上就是香蕉泥，香甜可口。"
     },
     "GAMEPLAY_BabyFoodCarrot": {
         "English": "Jar of babyfood",
@@ -309,7 +347,8 @@
         "Turkish": "Bir kavanoz bebek maması",
 		"Italian": "Barattolo di Cibo per Bambini",
 		"German":  "Glas Babynahrung",
-		"Japanese": "ベビーフードの瓶（ニンジン）"
+		"Japanese": "ベビーフードの瓶（ニンジン）",
+		"Traditional Chinese": "嬰兒副食品（胡蘿蔔）"
     },
     "GAMEPLAY_BabyFoodCarrotDescription": {
         "English": "The sadder version of babyfood, just vegetables. Healthy, but thats about it.",
@@ -317,7 +356,8 @@
         "Turkish": "Bebek mamasının daha lezzetsiz versiyonu, sadece sebze. Sağlıklı, hepsi bu.",
 		"Italian": "La versione più triste del cibo per bambini, solo verdura. Sano, ma questo è tutto.",
 		"German": "Die traurigere Version von Babynahrung, nur Gemüse. Gesund, aber das ist es auch schon.",
-		"Japanese": "ほぼ野菜だけながっかりベビーフード。ヘルシーだが、ただそれだけだ。"
+		"Japanese": "ほぼ野菜だけながっかりベビーフード。ヘルシーだが、ただそれだけだ。",
+		"Traditional Chinese": "比較「令人沮喪」版的嬰兒副食品。只有蔬菜，很健康，但也僅此而已。"
     },
     "GAMEPLAY_BabyFoodBerries": {
         "English": "Jar of babyfood",
@@ -325,7 +365,8 @@
         "Turkish": "Bir kavanoz bebek maması",
 		"Italian": "Barattolo di Cibo per Bambini",
 		"German":  "Glas Babynahrung",
-		"Japanese": "ベビーフードの瓶（ベリー）"
+		"Japanese": "ベビーフードの瓶（ベリー）",
+		"Traditional Chinese": "嬰兒副食品（莓果）"
     },
     "GAMEPLAY_BabyFoodBerriesDescription": {
         "English": "Mashed berries, a nice dessert in a pinch.",
@@ -333,7 +374,8 @@
         "Turkish": "Çilek püresi. Sıkıştığında güzel bir tatlı.",
 		"Italian": "Purè di bacche, un buon dessert in caso di necessità.",
 		"German": "Beerenpüree, zur Not ein schönes Dessert.",
-		"Japanese": "ベリーをつぶしたもの、いざという時のデザートにいい。"
+		"Japanese": "ベリーをつぶしたもの、いざという時のデザートにいい。",
+		"Traditional Chinese": "搗碎的莓果，在關鍵時刻是不錯的甜點。"
     },
     "GAMEPLAY_BabyFoodPeas": {
         "English": "Jar of babyfood",
@@ -341,7 +383,8 @@
         "Turkish": "Bir kavanoz bebek maması",
 		"Italian": "Barattolo di Cibo per Bambini",
 		"German":  "Glas Babynahrung",
-		"Japanese": "ベビーフードの瓶（豆）"
+		"Japanese": "ベビーフードの瓶（豆）",
+		"Traditional Chinese": "嬰兒副食品（豌豆）"
     },
     "GAMEPLAY_BabyFoodPeasDescription": {
         "English": "Mushy peas. Not the nicest texture, but pairs surprisingly well with some fish.",
@@ -349,7 +392,8 @@
         "Turkish": "Lapa bezelye. Pek hoş bir doku değildir, ancak bazı balıklarla şaşırtıcı derecede iyi uyum sağlar.",
 		"Italian": "Purè di piselli. Non ha una buona consistenza, ma si abbina sorprendentemente bene con un po' di pesce.",
 		"German": "Erbsenpüree. Nicht die schönste Konsistenz, passt aber überraschend gut zu etwas Fisch.",
-		"Japanese": "つぶした豆。食感は良くないが、魚料理に意外と合う。"
+		"Japanese": "つぶした豆。食感は良くないが、魚料理に意外と合う。",
+		"Traditional Chinese": "豌豆泥。雖然口感不是很好，但意外地跟魚肉很搭。"
     },
     "GAMEPLAY_SoyMilk": {
         "English": "Soy Milk",
@@ -357,7 +401,8 @@
         "Turkish": "Soya Sütü",
 		"Italian": "Latte di Soia",
 		"German":  "Soja-Milch",
-		"Japanese": "豆乳"
+		"Japanese": "豆乳",
+		"Traditional Chinese": "豆奶"
     },
     "GAMEPLAY_SoyMilkDescription": {
         "English": "Works pretty much the same as milk, but is storeable for much longer.",
@@ -365,7 +410,8 @@
         "Turkish": "Sütle hemen hemen aynı işlevi görür, ancak çok daha uzun süre saklanabilir.",
 		"Italian": "Funziona praticamente come il latte, ma si conserva più a lungo.",
 		"German": "Funktioniert fast genauso wie Milch, ist aber viel länger haltbar.",
-		"Japanese": "牛乳とほとんど同じものだが、ずっと長く保存できる。"
+		"Japanese": "牛乳とほとんど同じものだが、ずっと長く保存できる。",
+		"Traditional Chinese": "用途與牛奶差不多，但保存期限長得多。"
     },
     "GAMEPLAY_CookiesJam": {
         "English": "Jam Drop Cookies",
@@ -373,7 +419,8 @@
         "Turkish": "Reçelli Damla Kurabiye",
 		"Italian": "Biscotti Jam Drop",
 		"German":  "Marmeladenkeks",
-		"Japanese": "ジャムドロップクッキー"
+		"Japanese": "ジャムドロップクッキー",
+		"Traditional Chinese": "果醬曲奇餅乾"
     },
     "GAMEPLAY_CookiesJamDescription": {
         "English": "A swedish traditional cookie. Often made with raspberry jam.",
@@ -381,7 +428,8 @@
         "Turkish": "Geleneksel bir İsveç kurabiyesi. Genellikle ahududu reçeli ile yapılır.",
 		"Italian": "Biscotti tradizionali della Svezia. Di solito fatte con la marmellata di lampone.",
 		"German": "Ein traditioneller schwedischer Keks. Oft mit Himbeermarmelade zubereitet.",
-		"Japanese": "スウェーデンの伝統的な菓子。ラズベリージャムを使って作ることが多い"
+		"Japanese": "スウェーデンの伝統的な菓子。ラズベリージャムを使って作ることが多い",
+		"Traditional Chinese": "一種瑞典傳統餅乾，通常使用覆盆子果醬製作。"
     },
     "GAMEPLAY_MixedNuts": {
         "English": "Bag of mixed nuts",
@@ -389,7 +437,8 @@
         "Turkish": "Bir torba karışık fındık",
 		"Italian": "Sacchetto di noci miste",
 		"German":  "Tüte gemischte Nüsse",
-		"Japanese": "ミックスナッツの袋"
+		"Japanese": "ミックスナッツの袋",
+		"Traditional Chinese": "綜合堅果"
     },
     "GAMEPLAY_MixedNutsDescription": {
         "English": "A good source of energy!",
@@ -397,7 +446,8 @@
         "Turkish": "İyi bir enerji kaynağı!",
 		"Italian": "Una buona fonte di energia!",
 		"German":  "Eine gute Energiequelle",
-		"Japanese": "良い活力の源だ！"
+		"Japanese": "良い活力の源だ！",
+		"Traditional Chinese": "優質的能量來源！"
     },
     "GAMEPLAY_TrailMix": {
         "English": "Bag of trail mix",
@@ -405,7 +455,8 @@
         "Turkish": "Bir paket patlıcan karışımı",
 		"Italian": "Sacchetto di trail mix",
 		"German":  "Tüte Studentenfutter",
-		"Japanese": "トレイルミックスの袋"
+		"Japanese": "トレイルミックスの袋",
+		"Traditional Chinese": "綜合點心"
     },
     "GAMEPLAY_TrailMixDescription": {
         "English": "Perfect for hikes. A good energy boost!",
@@ -413,6 +464,7 @@
         "Turkish": "Yürüyüşler için mükemmel. İyi bir enerji takviyesi!",
 		"Italian": "Perfetto per le escursioni. Una buona carica d'energia!",
 		"German": "Perfekt für Wanderungen. Ein guter Energieschub!",
-		"Japanese": "ハイキングに最適。良いエネルギー補給になるよ！"
+		"Japanese": "ハイキングに最適。良いエネルギー補給になるよ！",
+		"Traditional Chinese": "登山遠足的完美補給選擇，能有效補充體能！"
     }
 }
